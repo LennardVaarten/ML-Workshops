@@ -1,1906 +1,1906 @@
-region,immigSentiment,age,female,eduyrs,unemployed,incomeBracket,leftRight
-West Midlands (England),24,90,0,9,0,NA,5
-South West (England),7,61,1,10,0,7,5
-South East (England),14,62,1,10,0,2,3
-Northern Ireland,19,66,1,15,0,5,6
-Northern Ireland,13,68,0,12,0,3,NA
-Northern Ireland,20,63,0,18,0,10,7
-South West (England),8,70,0,10,0,1,8
-London,16,31,0,13,0,10,7
-East of England,14,62,0,11,0,2,8
-East Midlands (England),15,23,1,15,0,4,0
-South East (England),30,74,1,23,0,NA,3
-London,17,48,1,21,0,8,5
-Northern Ireland,18,26,0,11,0,4,5
-South West (England),3,31,1,14,0,2,5
-North West (England),15,36,1,13,0,2,6
-South East (England),22,21,1,18,0,NA,3
-South West (England),20,22,1,17,0,8,2
-East Midlands (England),22,23,0,11,0,9,3
-East of England,18,38,1,18,0,7,5
-Scotland,18,65,1,11,0,1,5
-North West (England),19,36,0,18,0,6,5
-South West (England),18,67,0,13,0,5,5
-West Midlands (England),24,58,0,15,0,6,6
-South West (England),25,54,1,16,0,8,5
-East of England,22,49,1,19,0,10,7
-East Midlands (England),15,38,0,14,0,3,NA
-Scotland,17,61,0,13,0,8,7
-East Midlands (England),24,56,0,11,0,9,NA
-East of England,19,34,1,11,0,3,5
-South West (England),13,71,1,10,0,NA,NA
-Yorkshire and the Humber,16,56,1,11,0,3,5
-East of England,24,35,1,21,0,7,8
-North West (England),7,35,0,12,0,NA,3
-London,2,54,1,10,0,1,10
-North East (England),14,77,1,10,0,NA,NA
-Wales,23,48,1,15,0,6,2
-North East (England),23,53,1,17,0,8,7
-East of England,13,19,0,15,0,NA,5
-South East (England),28,45,1,16,0,10,6
-South East (England),27,55,0,18,0,NA,3
-East of England,19,78,0,13,0,6,7
-London,17,50,1,19,0,6,5
-Northern Ireland,8,42,1,13,0,4,NA
-East Midlands (England),19,52,0,10,0,1,3
-South East (England),16,68,1,11,0,3,5
-South East (England),13,52,1,11,0,7,5
-South East (England),27,71,0,10,0,4,3
-South East (England),21,51,1,10,0,8,7
-East Midlands (England),3,58,0,11,0,5,6
-Wales,8,64,0,16,0,5,6
-Wales,7,63,0,10,0,8,6
-Wales,19,39,0,17,0,2,5
-South West (England),12,43,1,16,0,3,5
-Scotland,15,44,1,11,0,4,5
-West Midlands (England),0,69,0,10,0,2,2
-East of England,17,48,1,12,0,7,5
-Scotland,17,74,1,10,0,1,5
-South West (England),21,66,1,15,0,4,5
-East of England,9,71,0,15,0,6,8
-East of England,21,44,1,13,0,3,5
-East of England,23,60,0,20,0,5,5
-North West (England),22,30,0,10,0,8,2
-South West (England),20,69,0,17,0,1,5
-West Midlands (England),28,73,0,10,0,6,7
-London,21,17,0,12,0,NA,4
-South West (England),12,54,1,11,0,2,4
-Yorkshire and the Humber,18,56,1,19,0,9,NA
-London,23,72,1,10,0,NA,5
-London,13,71,0,16,0,10,3
-Yorkshire and the Humber,17,19,0,12,0,NA,NA
-South East (England),18,49,1,19,0,NA,4
-South West (England),19,29,0,17,0,5,5
-East of England,7,71,1,12,0,4,5
-East Midlands (England),14,82,0,10,0,NA,9
-East of England,7,60,1,13,0,7,7
-North West (England),2,41,0,12,0,NA,NA
-North West (England),22,27,1,12,0,7,5
-North West (England),NA,48,0,12,0,NA,4
-Yorkshire and the Humber,12,48,0,12,0,6,5
-Yorkshire and the Humber,22,61,0,18,0,10,6
-East Midlands (England),16,70,1,10,0,1,NA
-West Midlands (England),10,39,1,10,0,5,5
-South East (England),14,49,0,12,0,6,5
-East of England,28,54,0,14,0,7,7
-South West (England),21,79,0,16,0,7,7
-West Midlands (England),24,41,1,13,0,10,2
-South East (England),10,61,1,17,0,1,0
-Wales,15,50,1,13,0,7,6
-Scotland,28,40,0,16,0,10,4
-North West (England),21,29,1,16,0,NA,3
-East Midlands (England),22,19,1,14,0,NA,3
-Yorkshire and the Humber,11,82,0,21,0,3,8
-East of England,18,19,0,13,1,1,7
-Northern Ireland,15,42,1,18,0,1,2
-South East (England),12,82,0,13,0,5,7
-South West (England),22,71,0,11,0,2,6
-North West (England),18,58,0,11,0,NA,3
-North West (England),15,83,0,13,0,8,5
-East of England,28,51,1,19,0,10,4
-South West (England),18,87,1,22,0,1,4
-North East (England),12,68,1,12,0,5,2
-Scotland,6,47,1,14,0,3,5
-Yorkshire and the Humber,22,39,0,17,0,8,6
-South West (England),17,59,1,11,0,1,2
-Yorkshire and the Humber,8,81,0,11,0,1,5
-London,17,26,1,14,0,NA,5
-North West (England),14,78,1,13,0,3,5
-North West (England),10,43,0,13,0,3,5
-Yorkshire and the Humber,22,54,1,13,0,9,NA
-North East (England),21,34,1,17,0,3,NA
-North East (England),20,41,1,20,0,9,7
-South East (England),12,54,0,16,0,NA,5
-South East (England),18,67,1,10,0,NA,5
-East Midlands (England),24,72,0,15,0,7,4
-South East (England),10,77,0,12,0,NA,5
-Yorkshire and the Humber,11,67,0,24,0,7,6
-South East (England),NA,32,1,14,0,1,NA
-Yorkshire and the Humber,21,78,0,13,0,4,5
-East Midlands (England),NA,69,1,10,0,1,NA
-East of England,19,28,1,17,0,NA,5
-Northern Ireland,6,22,1,18,0,6,5
-London,19,65,1,12,0,6,7
-North West (England),18,68,1,11,0,1,5
-South East (England),10,66,1,11,0,4,9
-South East (England),8,59,1,13,0,7,NA
-North West (England),17,81,0,11,0,2,7
-East Midlands (England),26,30,1,22,0,5,6
-London,NA,52,1,14,0,NA,10
-London,19,NA,1,17,0,6,7
-East Midlands (England),18,80,0,10,0,4,5
-East Midlands (England),17,63,1,18,0,8,4
-North West (England),5,74,1,10,0,NA,2
-North West (England),11,22,1,16,0,NA,6
-North East (England),19,87,1,9,0,1,2
-South West (England),15,58,1,15,0,6,NA
-East of England,17,77,0,10,0,6,5
-South West (England),16,76,0,16,0,2,6
-South East (England),18,57,1,15,0,10,7
-Yorkshire and the Humber,25,31,0,15,1,NA,5
-East of England,9,73,1,13,0,3,7
-North East (England),10,68,0,11,0,10,8
-South West (England),22,25,1,22,0,7,3
-North East (England),19,82,1,14,0,NA,7
-East of England,23,37,0,18,0,3,3
-North East (England),20,71,0,19,0,8,8
-East of England,15,52,1,13,0,10,4
-Yorkshire and the Humber,21,76,0,14,0,7,5
-North West (England),21,45,1,11,0,2,6
-South East (England),24,79,1,13,0,2,9
-South East (England),15,30,0,9,0,10,5
-Yorkshire and the Humber,14,47,1,12,0,4,6
-South West (England),17,56,0,12,0,8,6
-North West (England),20,90,1,9,0,1,5
-Yorkshire and the Humber,26,57,0,11,0,3,0
-East of England,18,57,0,16,0,1,10
-Scotland,27,23,0,15,0,4,2
-West Midlands (England),18,73,0,10,0,7,3
-South West (England),NA,73,0,12,0,1,9
-East Midlands (England),26,30,1,17,0,6,6
-Yorkshire and the Humber,15,37,1,18,0,7,5
-North East (England),8,25,1,12,0,4,5
-North East (England),21,62,0,16,0,5,5
-London,27,68,1,23,0,6,3
-West Midlands (England),23,57,1,13,0,4,3
-Yorkshire and the Humber,17,53,0,11,0,3,4
-Yorkshire and the Humber,16,44,0,25,0,10,7
-East Midlands (England),19,26,0,17,0,2,6
-South East (England),22,69,0,11,0,6,5
-South East (England),15,32,1,17,0,NA,7
-South East (England),24,39,1,17,0,10,0
-Scotland,18,18,0,13,0,NA,5
-North East (England),20,45,1,15,0,7,5
-South West (England),11,56,1,14,0,6,7
-South West (England),19,69,1,11,0,2,NA
-East of England,6,76,1,11,0,3,3
-London,26,32,1,20,0,9,2
-North West (England),9,56,0,11,0,5,5
-West Midlands (England),19,31,0,15,0,2,5
-South East (England),21,56,1,NA,0,NA,5
-South East (England),19,88,0,25,0,NA,3
-North East (England),14,60,1,15,0,3,5
-Yorkshire and the Humber,24,32,0,14,0,9,5
-West Midlands (England),17,36,1,9,0,2,2
-East of England,15,84,1,18,0,NA,5
-Wales,13,74,0,10,0,NA,4
-Yorkshire and the Humber,15,63,0,12,0,3,5
-North West (England),0,50,1,12,0,2,5
-South West (England),30,72,0,17,0,5,3
-East Midlands (England),23,33,0,17,0,9,5
-Northern Ireland,13,65,0,15,0,8,7
-North West (England),16,77,1,11,0,2,8
-East of England,18,26,1,12,0,6,5
-Yorkshire and the Humber,10,69,0,13,0,4,6
-East Midlands (England),20,51,1,10,0,NA,8
-South East (England),18,52,0,20,0,8,5
-South East (England),27,67,1,10,0,NA,10
-East of England,21,30,1,12,0,4,1
-Scotland,30,66,0,17,0,8,3
-North East (England),9,70,1,11,0,3,6
-Northern Ireland,5,82,1,9,0,5,6
-East Midlands (England),17,72,0,20,0,7,6
-East Midlands (England),27,46,0,18,0,8,1
-North West (England),19,22,0,18,0,4,5
-North West (England),23,47,0,17,0,4,2
-South East (England),13,38,1,21,0,8,5
-Scotland,30,69,0,17,0,2,5
-North West (England),19,84,0,10,0,1,10
-Yorkshire and the Humber,26,68,1,19,0,NA,3
-South West (England),5,65,1,18,0,8,9
-Northern Ireland,24,55,1,12,0,1,4
-North West (England),10,73,0,16,0,5,7
-Yorkshire and the Humber,16,46,1,12,0,10,NA
-South East (England),21,63,1,14,0,9,5
-London,23,28,1,17,0,10,3
-South East (England),15,73,0,18,0,7,8
-South East (England),15,28,1,18,0,NA,5
-North West (England),0,54,0,12,0,10,5
-North West (England),19,66,0,11,0,2,6
-East of England,5,44,0,13,0,2,7
-East Midlands (England),14,57,0,19,0,7,6
-South East (England),18,15,1,10,0,NA,5
-West Midlands (England),4,51,1,12,0,4,5
-East Midlands (England),23,30,1,13,0,6,NA
-South West (England),NA,49,1,19,0,8,4
-East of England,26,47,0,24,0,10,3
-South West (England),22,48,0,14,0,10,7
-West Midlands (England),16,40,1,13,0,3,5
-East Midlands (England),23,31,1,17,0,4,5
-Yorkshire and the Humber,10,27,1,12,0,4,5
-South West (England),10,57,0,12,0,7,5
-East Midlands (England),14,31,1,14,0,10,5
-East of England,25,18,1,13,1,1,3
-East Midlands (England),14,29,0,16,0,10,NA
-London,28,33,1,19,0,8,2
-Yorkshire and the Humber,18,35,1,18,0,9,5
-South East (England),20,58,1,18,0,7,7
-South East (England),30,39,1,18,0,10,5
-West Midlands (England),25,88,0,32,0,3,8
-East of England,23,48,0,15,0,10,3
-Yorkshire and the Humber,NA,87,1,13,0,NA,8
-South West (England),26,83,0,25,0,6,5
-London,17,43,1,18,0,1,4
-Yorkshire and the Humber,14,85,0,10,0,3,3
-London,28,70,0,10,0,2,10
-Scotland,14,56,1,11,0,NA,5
-Northern Ireland,20,63,0,12,0,6,7
-Wales,23,36,1,17,0,5,NA
-Northern Ireland,NA,88,1,8,0,NA,8
-West Midlands (England),23,26,0,21,0,NA,3
-East Midlands (England),14,68,1,12,0,NA,7
-North West (England),20,64,1,10,0,1,6
-East of England,19,58,1,20,0,10,7
-North East (England),3,25,1,10,0,1,5
-Yorkshire and the Humber,4,68,1,10,0,2,2
-East of England,17,70,0,11,0,9,7
-Northern Ireland,24,67,0,19,0,8,5
-East of England,21,80,0,11,0,5,6
-London,27,61,0,19,0,5,4
-East of England,11,31,1,9,0,4,8
-North West (England),15,68,0,11,0,7,5
-South East (England),18,32,0,13,0,10,5
-South East (England),23,90,0,6,0,1,7
-East Midlands (England),8,56,0,16,0,8,8
-South East (England),24,87,1,16,0,NA,5
-West Midlands (England),18,29,0,16,0,NA,5
-South West (England),NA,57,1,11,0,7,NA
-North East (England),24,37,1,16,0,7,6
-North East (England),9,72,1,10,0,4,2
-North West (England),15,15,1,13,0,3,NA
-Scotland,20,58,1,12,0,2,5
-South East (England),18,64,0,16,0,7,5
-South West (England),5,74,1,10,0,1,5
-East of England,24,61,1,15,0,8,5
-North West (England),21,65,0,12,0,3,5
-East Midlands (England),13,59,1,14,0,5,6
-Yorkshire and the Humber,21,47,0,16,0,10,3
-Yorkshire and the Humber,1,60,1,11,0,3,2
-Scotland,15,58,1,10,0,1,NA
-Scotland,23,45,1,18,0,4,3
-East Midlands (England),6,24,1,13,0,6,5
-Scotland,28,32,1,19,0,9,3
-West Midlands (England),24,59,1,15,0,3,4
-Wales,19,52,1,26,0,7,NA
-East of England,21,65,1,15,0,10,5
-West Midlands (England),28,42,0,15,0,7,4
-South East (England),9,59,1,11,0,10,5
-Yorkshire and the Humber,0,83,1,13,0,1,4
-East of England,22,80,1,12,0,NA,5
-London,9,67,0,10,0,2,5
-North West (England),3,73,1,13,0,3,10
-East Midlands (England),18,84,1,10,0,1,6
-East of England,6,32,0,10,0,10,5
-North East (England),2,63,0,17,0,3,6
-South East (England),15,67,0,10,0,3,0
-South West (England),22,69,0,14,0,10,3
-London,6,38,1,11,0,2,0
-Northern Ireland,0,30,1,12,0,NA,NA
-South West (England),26,49,0,16,0,9,3
-East of England,12,44,1,27,0,6,4
-South West (England),10,46,1,12,0,7,NA
-South East (England),12,17,1,13,0,NA,5
-North East (England),16,26,1,13,0,1,5
-Wales,27,63,0,17,0,7,5
-North West (England),15,56,1,13,0,NA,5
-North East (England),5,49,1,16,0,7,5
-North West (England),14,71,0,12,0,NA,10
-Scotland,30,73,1,10,0,2,3
-North East (England),10,51,1,16,0,4,4
-East of England,11,34,1,12,0,2,5
-West Midlands (England),7,64,1,11,0,6,3
-East of England,7,54,1,17,0,NA,5
-West Midlands (England),23,36,1,20,0,7,2
-East of England,10,69,0,18,0,4,8
-North East (England),7,70,1,12,0,1,5
-North West (England),28,42,1,16,0,10,7
-East Midlands (England),13,34,0,17,0,9,8
-South West (England),0,54,1,15,0,7,5
-Scotland,21,77,0,10,0,1,8
-Wales,3,78,0,17,0,NA,NA
-North West (England),17,50,0,13,0,10,3
-Yorkshire and the Humber,22,20,1,15,0,3,5
-Scotland,11,24,0,17,0,2,5
-Scotland,25,49,1,9,0,1,5
-East of England,22,57,0,14,0,6,7
-South West (England),24,32,0,17,0,8,3
-Wales,25,32,0,19,0,7,3
-East of England,3,36,1,15,0,5,1
-East of England,24,41,1,19,0,3,NA
-South East (England),21,36,0,18,0,8,7
-Wales,3,58,0,NA,0,NA,NA
-Wales,18,57,1,17,0,10,6
-South West (England),11,60,1,12,0,4,7
-East of England,10,42,0,13,0,9,7
-West Midlands (England),7,45,0,13,0,7,10
-East Midlands (England),3,58,1,12,0,NA,NA
-East Midlands (England),20,62,0,17,0,10,6
-East Midlands (England),21,49,0,12,0,5,4
-London,17,36,1,13,0,10,5
-East Midlands (England),22,69,1,16,0,6,NA
-East of England,16,50,1,11,0,1,4
-South West (England),11,52,0,11,0,6,8
-Yorkshire and the Humber,18,62,1,13,0,4,NA
-South East (England),23,45,1,20,0,3,3
-Yorkshire and the Humber,9,85,0,8,0,NA,1
-South East (England),13,67,1,15,0,1,5
-South East (England),23,71,0,18,0,7,7
-South East (England),21,34,0,11,0,7,5
-Yorkshire and the Humber,27,59,0,16,0,2,5
-North West (England),17,39,1,16,0,1,NA
-South East (England),5,90,0,13,0,1,8
-North West (England),24,70,0,17,0,2,4
-South East (England),29,35,1,17,0,9,4
-Wales,15,18,1,15,0,NA,2
-South West (England),15,48,0,13,0,9,5
-North West (England),10,50,0,16,0,NA,3
-South East (England),21,71,0,17,0,10,8
-Yorkshire and the Humber,27,58,1,11,1,1,4
-Northern Ireland,18,61,0,18,0,4,3
-Scotland,22,70,0,24,0,5,3
-North East (England),NA,47,0,20,0,NA,5
-North East (England),17,30,1,13,0,5,5
-Scotland,0,50,1,15,0,5,5
-South West (England),18,55,0,16,0,NA,5
-Scotland,9,73,1,10,0,NA,6
-Yorkshire and the Humber,14,74,0,18,0,3,4
-South East (England),30,43,0,16,0,10,3
-West Midlands (England),16,76,0,14,0,NA,5
-West Midlands (England),0,47,0,11,0,4,6
-South West (England),24,75,1,17,0,8,6
-South East (England),20,59,1,12,0,1,1
-Scotland,19,54,1,11,0,2,5
-West Midlands (England),14,57,1,11,0,3,5
-Wales,15,89,1,10,0,8,5
-Wales,26,69,1,16,0,5,7
-Yorkshire and the Humber,15,47,0,14,0,5,5
-East of England,5,73,1,10,0,2,3
-North West (England),23,58,1,16,0,9,5
-North East (England),11,66,1,14,0,2,5
-Scotland,5,57,0,11,0,1,3
-Yorkshire and the Humber,0,55,1,10,0,1,NA
-South West (England),7,77,1,11,0,1,10
-South East (England),22,50,1,25,0,NA,3
-Scotland,24,81,0,10,0,NA,8
-East of England,13,60,1,12,0,9,5
-Yorkshire and the Humber,NA,75,1,11,0,1,NA
-South East (England),15,31,1,15,0,2,5
-East of England,18,71,0,16,0,7,4
-London,6,66,0,11,0,10,6
-North West (England),17,83,1,13,0,1,5
-Yorkshire and the Humber,14,60,0,15,0,NA,6
-South East (England),17,56,1,12,0,8,5
-West Midlands (England),10,49,0,10,0,2,5
-North West (England),9,38,1,11,0,3,5
-Wales,NA,46,0,12,0,6,9
-South East (England),15,28,1,15,0,8,NA
-London,NA,51,0,10,0,1,NA
-Scotland,19,77,0,11,0,3,5
-North West (England),5,41,0,14,0,3,3
-South West (England),11,52,0,15,0,NA,4
-London,19,90,1,18,0,5,7
-South East (England),22,16,1,12,0,8,NA
-South East (England),25,59,1,12,0,7,6
-Scotland,10,30,0,11,1,1,5
-North West (England),6,19,1,11,1,1,NA
-East of England,17,75,0,16,0,6,3
-Yorkshire and the Humber,30,30,1,18,0,6,2
-Yorkshire and the Humber,20,57,1,11,0,10,6
-Northern Ireland,30,29,0,18,0,10,3
-North East (England),21,41,0,16,0,7,4
-South East (England),16,56,0,11,0,5,5
-Wales,21,89,0,10,0,NA,5
-South East (England),18,44,0,16,0,NA,4
-East Midlands (England),25,25,0,17,0,8,5
-South East (England),15,79,0,19,0,10,5
-East of England,27,52,0,18,0,5,3
-Northern Ireland,24,59,1,17,0,5,5
-Yorkshire and the Humber,26,62,1,18,0,8,7
-East of England,19,17,1,11,0,NA,7
-North West (England),12,54,1,11,0,6,10
-West Midlands (England),NA,39,1,13,0,7,5
-Northern Ireland,22,38,0,13,0,7,5
-West Midlands (England),9,36,1,11,0,8,8
-West Midlands (England),7,54,1,11,0,3,5
-North West (England),9,61,0,14,0,8,5
-Yorkshire and the Humber,10,68,1,12,0,1,5
-West Midlands (England),19,40,1,17,0,10,3
-Northern Ireland,18,45,1,19,0,9,8
-North West (England),23,54,1,12,0,9,NA
-North West (England),23,64,1,10,0,4,8
-Scotland,22,64,1,10,0,1,NA
-South West (England),19,79,0,10,0,4,5
-East of England,16,51,1,13,0,6,5
-South East (England),19,51,1,10,0,5,7
-Scotland,22,17,1,12,0,NA,3
-North East (England),8,74,1,10,0,5,7
-London,0,70,1,17,0,NA,NA
-East of England,16,15,0,11,0,NA,5
-Wales,25,80,1,16,0,2,3
-East Midlands (England),19,33,1,16,0,NA,NA
-South East (England),18,87,0,11,0,5,6
-South East (England),26,45,1,17,0,7,2
-South East (England),6,77,0,10,0,2,4
-South East (England),6,30,1,14,0,3,5
-West Midlands (England),4,85,1,8,0,2,3
-South East (England),20,41,0,18,0,10,7
-London,26,72,1,12,0,NA,6
-North West (England),5,33,0,16,0,2,2
-South West (England),11,69,0,13,0,3,5
-Yorkshire and the Humber,5,28,1,16,0,10,4
-East of England,27,32,0,15,0,4,5
-South West (England),22,54,1,16,0,5,7
-North West (England),7,30,0,11,0,4,NA
-West Midlands (England),0,19,1,10,0,1,5
-South West (England),24,80,0,19,0,1,6
-Scotland,11,56,0,13,0,4,4
-Yorkshire and the Humber,15,81,1,12,0,5,5
-Scotland,19,35,1,15,0,1,5
-London,20,48,1,11,0,NA,NA
-North West (England),16,55,0,12,0,7,5
-West Midlands (England),19,65,0,15,0,10,5
-West Midlands (England),25,26,1,11,0,3,3
-West Midlands (England),18,80,0,10,0,1,5
-South East (England),29,26,1,16,0,5,NA
-East of England,13,59,0,11,0,5,5
-Scotland,26,55,1,21,0,NA,3
-East of England,4,59,0,20,0,2,6
-North East (England),25,31,0,16,0,1,5
-North East (England),22,34,1,17,0,10,5
-South East (England),30,42,0,18,0,10,5
-North West (England),7,54,1,11,0,4,5
-West Midlands (England),19,37,1,13,0,7,6
-Yorkshire and the Humber,NA,56,1,20,0,3,3
-South East (England),19,48,1,16,0,10,7
-East of England,NA,56,0,13,0,1,5
-South East (England),23,50,0,19,0,7,6
-Scotland,13,43,1,13,0,4,5
-South West (England),22,70,1,16,0,NA,5
-Scotland,18,61,1,10,0,4,5
-Yorkshire and the Humber,20,39,1,12,0,2,5
-East Midlands (England),12,74,0,11,0,1,7
-Scotland,20,67,0,13,0,6,6
-East Midlands (England),18,56,1,13,0,5,7
-East Midlands (England),23,24,1,18,0,9,5
-South East (England),24,51,0,12,0,4,3
-London,11,41,0,10,0,9,5
-Scotland,27,71,0,16,0,1,3
-North West (England),17,49,0,12,0,1,0
-Yorkshire and the Humber,13,43,1,14,0,10,10
-South East (England),18,90,1,9,0,1,8
-Northern Ireland,21,26,1,22,0,2,5
-East of England,2,65,0,18,0,3,10
-Wales,NA,33,1,11,0,4,NA
-North East (England),14,87,1,10,0,NA,5
-East Midlands (England),28,56,0,10,0,2,0
-South East (England),16,67,1,12,0,1,5
-Scotland,15,57,0,11,0,4,5
-North West (England),14,61,1,14,0,8,5
-East Midlands (England),15,36,1,15,0,NA,5
-Wales,24,59,1,15,0,NA,6
-Scotland,18,71,1,12,0,NA,7
-South East (England),19,58,1,12,0,NA,7
-Scotland,9,67,0,10,0,NA,5
-Yorkshire and the Humber,22,64,0,25,0,6,3
-Scotland,24,38,1,18,0,10,4
-South East (England),14,52,1,11,0,4,7
-South West (England),20,62,1,22,0,8,4
-Scotland,27,44,0,18,0,1,2
-North West (England),23,33,0,21,0,7,4
-East Midlands (England),18,51,1,16,0,8,NA
-Scotland,30,59,1,19,0,8,4
-North West (England),2,26,0,12,0,1,5
-Scotland,17,71,0,13,0,1,3
-South East (England),23,48,1,20,0,6,7
-South East (England),19,57,0,13,0,8,4
-South East (England),21,63,1,18,0,9,6
-South East (England),10,84,1,10,0,1,10
-East Midlands (England),25,55,1,14,0,2,4
-Scotland,12,70,0,10,0,1,4
-South East (England),15,28,0,13,0,4,NA
-West Midlands (England),22,30,1,15,0,6,5
-Northern Ireland,24,48,1,14,0,6,5
-Yorkshire and the Humber,9,86,1,9,0,2,7
-South East (England),20,74,0,11,0,4,4
-Yorkshire and the Humber,15,78,1,10,0,9,5
-Northern Ireland,18,35,0,17,0,9,2
-Yorkshire and the Humber,12,39,1,12,0,5,NA
-South East (England),15,54,0,14,0,7,5
-South West (England),15,82,0,18,0,6,7
-Yorkshire and the Humber,18,68,0,10,0,9,5
-North West (England),27,57,0,13,0,8,3
-South East (England),19,62,1,16,0,NA,5
-Yorkshire and the Humber,15,68,1,11,0,2,NA
-South West (England),14,63,0,20,0,7,5
-Yorkshire and the Humber,18,65,1,11,0,5,7
-West Midlands (England),15,58,0,11,0,7,5
-North West (England),13,89,0,9,0,2,7
-Scotland,14,38,1,13,0,NA,5
-Yorkshire and the Humber,19,29,1,14,0,5,NA
-East of England,14,82,0,10,0,2,5
-East Midlands (England),25,73,1,10,0,8,5
-North West (England),15,74,1,10,0,4,5
-South East (England),24,42,1,16,0,8,5
-West Midlands (England),25,45,1,22,0,10,5
-Scotland,20,58,1,17,0,4,6
-Yorkshire and the Humber,14,66,1,15,0,3,5
-North East (England),27,38,0,14,0,7,5
-East Midlands (England),20,26,0,16,0,3,4
-West Midlands (England),18,51,0,13,0,4,7
-Scotland,6,53,1,15,0,3,6
-Yorkshire and the Humber,13,42,1,17,0,8,5
-North East (England),13,36,1,12,0,2,5
-East of England,23,62,0,18,0,1,2
-Northern Ireland,25,42,0,16,0,3,4
-South East (England),8,30,0,12,0,5,3
-West Midlands (England),14,82,0,11,0,5,3
-South East (England),17,62,1,11,0,6,5
-London,10,56,1,11,0,6,7
-South East (England),16,68,1,11,0,2,8
-East of England,21,48,1,14,0,10,7
-East of England,20,78,1,10,0,NA,5
-West Midlands (England),18,63,0,23,0,4,5
-South East (England),25,45,0,13,0,7,3
-East of England,26,71,0,14,0,1,0
-North East (England),20,62,0,13,0,7,6
-East of England,22,62,0,16,0,7,7
-South West (England),21,71,0,18,0,4,4
-South West (England),21,37,0,19,0,6,NA
-Yorkshire and the Humber,15,28,0,11,0,NA,NA
-East Midlands (England),17,33,1,13,0,1,5
-North West (England),18,70,1,12,0,5,7
-East Midlands (England),16,71,1,12,0,3,5
-South East (England),19,78,1,13,0,NA,9
-South East (England),21,56,0,16,0,9,6
-West Midlands (England),14,NA,1,18,0,3,6
-South West (England),23,67,1,11,0,7,7
-North West (England),15,49,1,13,0,10,6
-East of England,19,54,1,20,0,9,5
-North West (England),22,65,0,12,0,7,5
-South East (England),21,70,0,18,0,7,3
-East of England,29,21,0,14,0,8,2
-East Midlands (England),21,55,0,17,0,8,0
-South East (England),22,48,0,18,0,10,7
-South East (England),30,68,0,17,0,6,3
-North West (England),22,58,0,13,0,5,8
-East of England,29,42,0,16,0,8,3
-North West (England),9,52,0,10,0,3,NA
-Yorkshire and the Humber,NA,71,0,12,0,NA,NA
-Scotland,20,37,1,17,0,6,7
-North East (England),21,69,1,16,0,1,5
-London,21,49,1,10,0,8,5
-North East (England),8,45,1,17,1,1,5
-South East (England),22,57,0,9,0,5,7
-Scotland,19,69,0,11,0,5,5
-South East (England),8,52,0,16,0,10,7
-North West (England),18,71,0,14,0,8,7
-East of England,24,51,1,12,0,5,5
-East of England,11,59,0,14,0,8,5
-North West (England),15,67,0,10,0,5,5
-South West (England),NA,59,1,18,0,8,6
-East of England,22,67,1,17,0,4,5
-Yorkshire and the Humber,24,53,0,15,0,1,0
-Wales,7,51,0,12,0,2,0
-South East (England),12,55,1,11,0,9,5
-South East (England),8,51,0,17,0,5,NA
-East of England,23,36,0,15,0,8,5
-London,20,58,1,11,0,7,7
-North West (England),19,38,1,16,0,7,NA
-Northern Ireland,NA,52,1,15,0,1,NA
-London,15,77,0,18,0,6,8
-North East (England),17,67,1,14,0,5,7
-London,17,50,0,16,0,10,5
-West Midlands (England),11,58,0,11,1,2,1
-Yorkshire and the Humber,24,60,1,13,0,6,4
-North West (England),15,18,0,12,0,NA,7
-West Midlands (England),9,61,1,16,0,6,5
-South West (England),24,86,1,11,0,5,8
-East Midlands (England),13,84,0,10,0,3,8
-Yorkshire and the Humber,17,23,0,14,0,6,5
-South East (England),19,58,0,13,0,10,6
-South East (England),19,66,1,13,0,1,5
-East of England,6,34,1,12,0,1,5
-North East (England),0,67,1,10,0,1,0
-Scotland,16,28,1,13,0,4,5
-Wales,21,33,0,13,0,6,6
-South East (England),18,57,1,12,0,NA,7
-Northern Ireland,16,30,0,18,0,4,5
-North West (England),21,48,0,15,0,5,5
-South West (England),10,79,1,11,0,1,3
-East of England,22,40,0,16,0,7,5
-Yorkshire and the Humber,17,40,0,26,0,2,NA
-East Midlands (England),18,25,1,17,0,5,5
-Scotland,13,18,0,14,0,1,8
-East of England,11,63,0,10,0,3,5
-Yorkshire and the Humber,NA,33,1,9,0,1,5
-Scotland,27,31,1,12,0,6,5
-Scotland,24,69,1,15,0,4,5
-Scotland,15,81,0,10,0,2,0
-Scotland,15,27,1,15,0,3,6
-London,26,65,1,13,0,1,NA
-North West (England),19,82,0,11,0,5,7
-North West (England),17,41,0,17,0,10,7
-South East (England),15,70,1,12,0,NA,5
-Northern Ireland,21,83,0,12,0,3,7
-South East (England),14,39,0,14,0,3,5
-East Midlands (England),23,52,1,10,0,NA,NA
-London,11,67,1,11,0,7,2
-South East (England),10,42,0,12,0,NA,NA
-South East (England),0,69,1,12,0,4,6
-Yorkshire and the Humber,21,49,0,18,0,NA,5
-West Midlands (England),11,80,0,11,0,NA,5
-London,17,37,0,16,0,10,5
-South East (England),7,58,1,12,0,9,5
-Scotland,26,54,0,26,0,5,3
-West Midlands (England),9,77,1,11,0,2,5
-Scotland,21,28,0,18,0,8,4
-North East (England),22,26,0,14,0,4,5
-Scotland,19,28,0,11,0,2,5
-South West (England),22,47,0,10,0,8,7
-South East (England),25,37,1,19,0,9,5
-South East (England),16,63,0,11,0,NA,5
-North West (England),19,73,1,10,0,2,2
-South East (England),13,61,0,17,0,8,8
-North East (England),14,71,0,18,0,3,6
-North East (England),7,90,0,11,0,5,7
-Yorkshire and the Humber,22,20,0,12,1,NA,5
-South East (England),15,40,0,15,0,7,7
-South East (England),11,61,0,11,1,1,6
-South West (England),24,44,0,15,0,10,4
-East of England,20,36,1,20,0,8,3
-Yorkshire and the Humber,20,46,0,13,0,8,3
-Scotland,14,45,0,13,0,10,5
-East Midlands (England),10,75,0,9,0,8,6
-South East (England),22,83,0,10,0,7,8
-North West (England),16,66,0,16,0,7,NA
-East of England,16,68,1,13,0,4,6
-South West (England),20,66,1,19,0,3,3
-Wales,8,59,0,8,0,10,5
-North East (England),NA,75,1,13,0,NA,NA
-West Midlands (England),14,75,1,10,0,NA,7
-North West (England),15,41,1,11,0,NA,1
-South East (England),8,50,0,10,0,8,3
-East of England,18,52,1,11,0,2,NA
-West Midlands (England),19,77,0,17,0,NA,6
-Yorkshire and the Humber,23,17,1,12,0,NA,2
-East Midlands (England),21,89,1,16,0,2,10
-South West (England),17,19,1,12,0,4,5
-Yorkshire and the Humber,21,41,1,17,0,9,5
-South West (England),15,44,1,16,0,4,NA
-North West (England),18,33,0,13,0,5,5
-Yorkshire and the Humber,21,62,1,16,0,2,4
-Scotland,26,30,1,16,0,9,2
-South East (England),20,83,1,15,0,NA,5
-East of England,16,87,0,12,0,1,7
-Scotland,19,20,0,11,0,9,5
-East Midlands (England),27,45,1,21,0,3,5
-Wales,21,29,0,16,0,5,5
-North West (England),21,41,1,16,0,8,5
-Northern Ireland,30,54,1,12,0,8,0
-East Midlands (England),21,16,1,12,0,7,6
-South West (England),17,55,0,13,0,NA,6
-Wales,17,55,1,24,0,6,8
-North East (England),0,58,1,13,0,1,8
-West Midlands (England),15,66,1,15,0,NA,2
-North West (England),6,32,1,16,0,8,7
-Yorkshire and the Humber,24,36,1,19,0,NA,4
-South West (England),14,36,0,21,0,9,3
-Wales,15,24,1,10,0,2,1
-London,29,47,0,16,0,NA,3
-Yorkshire and the Humber,3,47,0,10,0,2,2
-Scotland,24,77,1,10,0,6,10
-North West (England),9,76,0,10,0,1,5
-Wales,14,80,0,19,0,4,5
-South West (England),13,60,1,11,0,6,5
-Yorkshire and the Humber,19,86,1,15,0,3,7
-Northern Ireland,0,32,1,14,0,3,1
-East of England,23,35,1,15,0,3,5
-East Midlands (England),1,21,0,11,0,2,6
-Wales,10,34,0,12,0,5,5
-London,21,36,1,17,0,9,4
-North East (England),6,74,1,10,0,NA,5
-East Midlands (England),11,63,0,11,0,1,4
-Yorkshire and the Humber,22,76,1,15,0,3,8
-Scotland,15,33,0,11,0,8,NA
-North East (England),17,39,1,13,0,2,5
-Northern Ireland,27,74,1,15,0,4,3
-North West (England),20,62,0,10,0,1,3
-Scotland,2,54,1,12,0,NA,7
-East Midlands (England),21,35,1,14,0,8,NA
-Scotland,30,27,1,14,0,5,5
-North West (England),21,73,0,11,0,4,7
-Scotland,24,51,1,17,0,8,4
-South East (England),21,49,0,13,0,NA,6
-Wales,21,64,1,17,0,2,5
-East of England,15,74,0,14,0,7,5
-West Midlands (England),20,26,0,16,0,8,4
-South West (England),16,57,1,13,0,10,5
-East Midlands (England),11,70,1,10,0,5,7
-East of England,14,86,0,10,0,6,10
-East Midlands (England),20,44,1,20,0,2,7
-Wales,1,61,1,10,0,4,3
-South East (England),22,55,1,17,0,3,6
-London,17,65,1,15,0,9,2
-East of England,12,57,1,13,0,9,5
-London,21,36,0,18,0,9,6
-Scotland,28,46,0,20,0,4,2
-North West (England),12,47,1,13,1,2,5
-Northern Ireland,24,26,1,20,0,3,5
-North West (England),12,NA,1,20,0,2,0
-East of England,7,73,1,10,0,NA,5
-East Midlands (England),10,24,0,12,0,3,5
-South East (England),10,67,0,11,0,1,5
-South East (England),16,20,0,15,0,3,4
-Northern Ireland,0,16,1,12,0,NA,5
-Scotland,13,57,1,11,0,NA,6
-South West (England),26,69,0,13,0,5,2
-Yorkshire and the Humber,19,49,1,18,0,9,6
-Yorkshire and the Humber,16,78,0,17,0,NA,7
-East of England,23,58,0,16,0,9,7
-North East (England),9,38,0,13,0,2,5
-North West (England),1,41,1,9,0,2,0
-South East (England),17,67,1,11,0,4,5
-South East (England),21,43,0,21,0,7,5
-North East (England),6,64,0,13,0,1,4
-Yorkshire and the Humber,7,50,0,11,0,7,7
-South West (England),21,21,0,15,0,10,NA
-North East (England),4,59,1,11,0,2,8
-London,5,52,1,13,1,NA,4
-East of England,14,71,0,10,0,1,5
-South East (England),12,60,1,11,0,6,10
-South East (England),23,65,1,16,0,6,5
-South East (England),21,56,0,18,0,10,3
-South East (England),23,66,1,16,0,7,6
-London,12,51,0,NA,0,7,5
-London,26,57,0,15,0,10,4
-Wales,21,70,1,11,0,6,5
-Yorkshire and the Humber,21,19,1,14,0,3,NA
-South West (England),19,55,0,20,0,10,5
-South East (England),26,29,0,18,0,10,3
-Yorkshire and the Humber,16,80,1,16,0,2,5
-North West (England),18,66,1,16,0,8,5
-South West (England),14,61,0,10,0,6,5
-South West (England),30,59,0,25,0,5,7
-South East (England),15,37,1,18,0,8,6
-Scotland,18,88,1,13,0,NA,8
-East Midlands (England),12,67,0,10,0,5,5
-South East (England),24,68,0,13,0,NA,3
-South West (England),21,48,1,11,0,4,5
-London,19,83,0,7,0,3,7
-South East (England),24,31,0,11,0,8,7
-East Midlands (England),25,37,0,19,0,10,4
-South West (England),28,15,1,11,0,NA,5
-North West (England),24,88,0,11,0,NA,8
-East Midlands (England),21,17,1,13,0,NA,1
-Yorkshire and the Humber,0,69,0,18,0,3,NA
-Yorkshire and the Humber,21,47,1,11,0,5,5
-South West (England),17,32,0,15,0,8,5
-Yorkshire and the Humber,11,58,1,12,0,1,7
-East of England,19,46,0,17,0,2,5
-North East (England),0,63,1,18,0,3,2
-South East (England),23,44,1,19,0,10,6
-West Midlands (England),29,72,1,11,0,NA,4
-Scotland,15,34,1,16,0,9,3
-North East (England),24,60,1,19,0,8,6
-North West (England),3,56,0,12,0,NA,5
-South West (England),21,43,1,18,0,8,2
-North West (England),6,40,0,12,0,1,NA
-North East (England),19,67,0,13,0,3,5
-North West (England),10,76,1,10,0,1,8
-Wales,20,80,1,8,0,1,5
-East of England,25,30,1,20,0,7,4
-Wales,14,37,1,16,0,7,7
-West Midlands (England),21,35,1,11,0,4,5
-London,24,56,0,20,0,10,5
-East Midlands (England),25,28,0,16,0,3,3
-Yorkshire and the Humber,22,56,0,14,0,6,4
-South West (England),14,79,0,13,0,5,7
-Yorkshire and the Humber,10,51,1,11,0,1,5
-Northern Ireland,25,41,1,21,0,7,5
-South East (England),13,48,0,13,0,7,5
-North West (England),24,70,0,8,0,1,7
-East Midlands (England),17,57,1,11,1,1,4
-North West (England),14,68,1,11,0,4,7
-Wales,17,73,1,13,0,NA,5
-South West (England),23,33,1,13,0,2,0
-South East (England),22,47,1,19,0,8,2
-Wales,21,70,0,15,0,10,4
-East of England,30,38,0,13,0,8,3
-North East (England),25,37,1,18,0,10,5
-North East (England),17,63,0,13,0,1,4
-East Midlands (England),3,39,1,11,0,NA,NA
-East of England,1,70,1,11,0,NA,9
-South East (England),28,42,1,18,0,NA,NA
-North West (England),13,27,1,16,0,2,5
-Yorkshire and the Humber,24,65,0,19,0,4,6
-North West (England),7,16,0,14,0,4,6
-South East (England),12,18,1,14,0,NA,NA
-London,28,42,0,20,0,10,5
-South East (England),28,77,0,11,0,2,6
-Wales,21,36,1,12,0,9,NA
-East of England,23,49,1,17,0,3,2
-Scotland,11,61,1,17,0,3,8
-Wales,20,45,1,19,0,2,1
-Wales,21,55,1,15,1,1,5
-South East (England),21,63,0,19,0,NA,6
-Wales,18,64,0,14,0,7,3
-South East (England),17,61,1,20,0,2,4
-West Midlands (England),3,59,1,11,0,7,NA
-West Midlands (England),15,80,0,10,0,NA,5
-North West (England),19,40,0,13,0,3,5
-Northern Ireland,11,36,1,15,0,10,NA
-Yorkshire and the Humber,25,63,1,12,0,1,2
-South West (England),4,47,1,12,0,8,NA
-North East (England),23,66,0,14,0,1,7
-West Midlands (England),22,58,0,11,0,5,6
-Scotland,14,62,0,15,0,NA,7
-Wales,17,78,1,17,0,7,6
-East Midlands (England),9,69,1,10,0,NA,6
-West Midlands (England),13,60,0,16,0,7,7
-Yorkshire and the Humber,15,90,1,9,0,2,2
-London,19,71,1,9,0,2,2
-Yorkshire and the Humber,19,45,0,16,0,7,3
-East of England,13,59,1,11,0,10,5
-West Midlands (England),8,42,1,16,0,4,4
-London,9,54,0,11,0,1,NA
-North West (England),5,46,1,11,0,NA,6
-Yorkshire and the Humber,16,68,1,10,0,5,6
-London,17,62,0,12,0,NA,5
-South East (England),23,51,0,14,0,7,5
-Wales,22,74,1,11,0,3,7
-Scotland,14,55,1,17,0,9,5
-London,22,68,0,15,0,9,3
-Yorkshire and the Humber,19,56,1,19,0,9,6
-Scotland,10,19,0,13,0,NA,7
-Yorkshire and the Humber,10,34,1,18,0,8,5
-North West (England),23,41,1,17,0,3,6
-South East (England),17,72,0,12,0,8,9
-North West (England),16,49,1,13,0,4,5
-South West (England),11,77,0,18,0,6,8
-London,28,71,1,18,0,9,0
-Scotland,NA,76,1,11,0,NA,NA
-South West (England),21,60,1,12,0,5,5
-South East (England),24,69,0,11,0,6,3
-North East (England),30,30,0,12,0,10,7
-East Midlands (England),13,84,1,10,0,2,6
-Yorkshire and the Humber,6,49,1,NA,0,1,4
-North West (England),13,NA,1,20,0,NA,5
-Scotland,NA,40,0,16,0,8,5
-East of England,6,72,0,11,0,7,5
-East Midlands (England),NA,64,1,13,0,NA,5
-East Midlands (England),3,53,0,11,1,NA,NA
-Scotland,26,62,0,17,0,9,5
-East Midlands (England),19,41,1,18,0,9,6
-East of England,24,79,0,13,0,5,7
-South East (England),16,48,0,12,0,4,5
-North West (England),26,35,0,18,0,9,5
-Scotland,15,90,0,11,0,6,6
-Scotland,30,45,1,14,0,2,3
-London,17,27,1,16,0,5,5
-Yorkshire and the Humber,12,70,1,12,0,2,5
-Yorkshire and the Humber,21,66,1,15,0,1,0
-South East (England),NA,86,1,9,0,NA,5
-Northern Ireland,9,36,0,14,1,2,8
-Yorkshire and the Humber,23,57,1,18,0,4,4
-South East (England),24,59,0,11,0,9,3
-Northern Ireland,15,75,0,21,0,8,5
-South East (England),28,36,0,19,0,9,3
-West Midlands (England),16,56,1,15,0,9,8
-East of England,11,23,0,11,1,NA,5
-South East (England),9,62,0,21,0,NA,6
-East of England,13,79,0,10,0,2,7
-South East (England),12,76,1,14,0,5,8
-South East (England),24,70,0,15,0,NA,7
-Yorkshire and the Humber,18,63,0,17,0,7,7
-North West (England),23,61,1,10,0,4,2
-Scotland,21,56,1,13,1,1,5
-Scotland,17,72,1,15,0,4,4
-West Midlands (England),11,60,0,11,0,NA,5
-South East (England),25,28,1,15,0,7,2
-South East (England),26,71,0,10,0,3,5
-Yorkshire and the Humber,30,43,1,16,0,6,3
-North West (England),22,32,0,17,0,10,2
-East of England,21,55,0,NA,0,NA,NA
-North West (England),13,81,0,10,0,2,5
-North West (England),12,44,1,18,0,3,4
-Scotland,9,55,0,10,0,5,2
-Yorkshire and the Humber,30,44,1,17,0,9,4
-North East (England),15,29,1,18,0,3,5
-East Midlands (England),16,39,1,11,0,NA,5
-East Midlands (England),23,18,1,13,0,3,6
-North East (England),21,39,1,13,0,5,5
-North East (England),12,83,1,10,0,2,5
-South East (England),14,36,1,14,0,10,5
-Yorkshire and the Humber,21,66,0,16,0,9,6
-East Midlands (England),21,72,1,11,0,2,9
-North East (England),22,47,0,12,0,3,3
-Scotland,23,66,1,11,0,1,2
-East of England,17,39,0,12,0,8,5
-Yorkshire and the Humber,15,58,0,10,0,NA,NA
-East of England,16,78,0,10,0,4,7
-North West (England),26,90,1,10,0,NA,7
-North East (England),10,36,0,20,0,9,4
-North East (England),16,37,1,16,0,1,5
-Wales,19,75,1,12,0,2,5
-Yorkshire and the Humber,20,36,0,9,0,2,4
-South West (England),23,70,0,16,0,7,2
-Wales,7,63,0,15,0,7,5
-London,19,79,1,16,0,NA,5
-Yorkshire and the Humber,16,65,0,14,0,7,8
-London,24,38,1,27,0,10,5
-Scotland,13,32,0,11,0,2,5
-London,3,54,0,12,0,1,0
-North East (England),12,60,1,20,0,NA,6
-North West (England),26,32,1,17,0,9,1
-South West (England),12,65,1,13,0,NA,8
-Northern Ireland,11,51,1,14,0,7,5
-London,27,56,0,18,0,5,3
-East Midlands (England),22,56,0,13,0,5,5
-Wales,17,69,0,16,0,3,5
-North West (England),13,56,1,16,0,3,0
-East Midlands (England),19,36,0,16,0,9,5
-East Midlands (England),14,30,1,13,0,9,3
-North West (England),16,35,1,15,0,10,NA
-East of England,21,38,0,12,0,NA,5
-London,26,34,0,22,0,8,3
-West Midlands (England),9,38,0,16,0,8,4
-East of England,13,83,1,9,0,NA,3
-Wales,8,31,0,12,0,2,3
-Northern Ireland,6,43,1,14,0,7,5
-North West (England),2,85,0,15,0,1,5
-North West (England),17,41,0,11,0,3,3
-East of England,12,58,0,11,0,10,5
-South East (England),20,49,0,11,0,10,5
-East of England,15,60,1,12,0,2,5
-Wales,13,87,1,11,0,NA,3
-East Midlands (England),17,51,0,11,0,10,7
-South West (England),12,66,0,11,0,3,5
-North East (England),16,21,1,12,0,3,5
-South West (England),25,42,0,NA,0,8,3
-West Midlands (England),19,32,1,11,0,NA,5
-South East (England),13,75,0,11,0,1,9
-South West (England),23,33,0,15,0,5,3
-East Midlands (England),NA,47,1,20,0,5,2
-North West (England),7,68,0,13,0,2,NA
-South East (England),21,66,1,23,0,NA,2
-West Midlands (England),10,56,0,11,0,2,5
-Yorkshire and the Humber,29,65,0,21,0,10,2
-Yorkshire and the Humber,3,49,1,10,0,2,3
-East Midlands (England),13,19,1,11,0,NA,NA
-East of England,21,52,1,25,0,5,3
-North West (England),17,79,0,9,0,4,2
-South West (England),23,60,1,13,0,1,2
-South West (England),18,60,1,14,0,NA,5
-Wales,23,38,1,13,0,10,2
-Yorkshire and the Humber,17,38,1,13,0,10,2
-Yorkshire and the Humber,30,67,1,17,0,NA,5
-South East (England),18,38,0,9,0,3,8
-South East (England),25,45,1,23,0,10,6
-South West (England),23,76,0,17,0,6,7
-Wales,13,56,1,20,0,6,5
-Yorkshire and the Humber,16,52,0,14,0,6,4
-North East (England),15,18,1,14,0,2,6
-Wales,18,75,0,10,0,NA,6
-East Midlands (England),7,56,0,14,0,5,5
-East Midlands (England),12,63,0,18,0,9,6
-East Midlands (England),18,80,1,18,0,NA,4
-South East (England),11,89,0,9,0,NA,5
-Northern Ireland,11,66,0,16,0,2,5
-Yorkshire and the Humber,15,75,1,19,0,4,5
-East of England,20,47,1,18,0,7,3
-North East (England),13,31,1,13,0,9,4
-West Midlands (England),10,56,1,11,0,2,5
-South East (England),0,63,0,14,0,1,NA
-South East (England),19,76,0,17,0,10,8
-North East (England),15,82,0,10,0,1,5
-South West (England),20,71,0,13,0,6,5
-East of England,11,57,0,11,0,6,7
-South East (England),20,58,0,11,0,10,5
-North West (England),9,74,1,11,0,2,NA
-Yorkshire and the Humber,14,76,0,13,0,8,6
-North East (England),10,33,0,18,0,4,5
-Scotland,18,73,1,20,0,3,5
-North East (England),16,74,0,13,0,3,5
-London,11,NA,1,14,0,NA,5
-South East (England),15,53,0,11,0,NA,5
-North East (England),20,43,1,13,0,7,5
-Wales,18,64,1,10,0,2,5
-East of England,27,40,1,17,0,6,2
-South East (England),18,70,1,20,0,9,6
-East of England,NA,66,0,15,0,NA,5
-South East (England),20,56,0,15,0,NA,9
-Scotland,24,63,0,10,0,8,2
-North West (England),23,65,0,17,0,5,7
-West Midlands (England),17,34,1,17,0,6,5
-West Midlands (England),15,72,0,16,0,4,8
-Yorkshire and the Humber,26,33,1,20,0,NA,6
-South East (England),7,76,0,10,0,1,5
-North West (England),0,74,1,10,0,1,5
-Scotland,24,18,1,13,0,NA,5
-East Midlands (England),NA,63,1,10,0,4,NA
-South East (England),19,78,1,16,0,3,6
-North West (England),14,73,1,10,0,2,7
-North West (England),10,23,0,16,0,5,5
-Scotland,12,85,1,10,0,NA,5
-East Midlands (England),20,64,0,18,0,10,4
-South East (England),10,75,0,10,0,5,5
-Yorkshire and the Humber,NA,32,1,13,0,3,5
-West Midlands (England),NA,78,1,10,0,NA,NA
-Northern Ireland,11,39,1,14,0,4,5
-West Midlands (England),16,40,1,15,0,7,3
-East of England,17,22,1,16,0,6,3
-East of England,18,49,1,16,0,6,NA
-West Midlands (England),11,42,1,12,0,3,4
-East of England,12,54,1,11,0,NA,NA
-Wales,7,62,0,16,0,10,6
-South East (England),16,26,1,13,0,2,10
-East of England,15,43,1,13,0,NA,NA
-South East (England),3,75,1,11,0,2,5
-South West (England),10,38,0,9,0,1,5
-Yorkshire and the Humber,17,17,1,12,0,8,10
-North East (England),14,37,1,12,0,NA,5
-South West (England),15,72,0,11,0,10,5
-North West (England),10,76,0,13,0,1,4
-South East (England),14,34,1,12,0,2,6
-North East (England),16,17,0,9,0,NA,NA
-Wales,5,68,1,10,0,2,5
-West Midlands (England),15,66,0,17,0,3,3
-North West (England),14,64,1,11,0,6,NA
-East Midlands (England),13,90,1,8,0,2,1
-Yorkshire and the Humber,21,30,1,15,0,2,5
-South East (England),23,76,0,10,0,NA,NA
-South West (England),18,17,1,12,0,NA,NA
-Yorkshire and the Humber,11,69,1,11,0,NA,7
-East Midlands (England),20,57,0,16,0,10,5
-Wales,22,55,1,22,0,8,5
-Northern Ireland,24,55,1,17,0,4,NA
-Scotland,18,75,1,11,0,2,NA
-East Midlands (England),18,55,0,11,0,7,7
-North East (England),9,23,1,9,0,2,NA
-London,10,48,1,10,0,2,NA
-Scotland,17,43,1,16,0,1,4
-North West (England),10,46,1,17,0,9,5
-East of England,12,46,1,12,0,10,6
-South West (England),12,76,0,17,0,4,5
-Scotland,25,74,1,16,0,3,4
-South East (England),19,31,0,12,0,7,4
-East of England,20,34,0,12,0,10,5
-North East (England),12,37,1,14,0,7,7
-East of England,13,31,0,11,0,3,5
-Scotland,27,46,1,18,0,10,1
-North West (England),3,48,1,13,0,3,4
-Scotland,22,60,1,18,0,4,3
-North West (England),NA,27,1,15,0,1,NA
-Yorkshire and the Humber,5,90,0,9,0,3,1
-South East (England),19,17,0,12,0,3,7
-East Midlands (England),1,77,1,10,0,NA,NA
-Yorkshire and the Humber,1,65,0,16,0,4,4
-Scotland,20,52,1,20,1,2,9
-East of England,10,66,1,10,0,2,5
-East of England,21,31,0,16,0,6,5
-West Midlands (England),4,22,1,13,0,NA,7
-South East (England),22,70,0,12,0,1,7
-West Midlands (England),20,34,0,14,0,8,4
-North West (England),17,33,1,11,0,NA,5
-South East (England),23,56,1,13,0,1,3
-East of England,16,77,0,12,0,5,8
-London,26,63,1,21,0,5,4
-Wales,10,72,0,18,0,5,8
-North West (England),21,85,0,11,0,NA,5
-London,17,65,0,12,0,3,8
-East Midlands (England),21,85,0,14,0,7,7
-West Midlands (England),18,58,0,11,0,9,NA
-North East (England),20,76,0,10,0,3,4
-North West (England),13,75,0,10,0,2,8
-Yorkshire and the Humber,12,63,1,11,0,NA,5
-Yorkshire and the Humber,4,53,1,11,0,8,4
-Yorkshire and the Humber,25,69,0,19,0,5,4
-Scotland,25,34,1,19,0,10,2
-Wales,22,54,1,15,0,7,4
-Scotland,NA,41,0,11,0,NA,NA
-Scotland,23,26,0,21,0,4,6
-Northern Ireland,25,63,1,11,0,2,NA
-East of England,10,75,0,21,0,10,7
-London,8,21,0,15,0,8,5
-South West (England),NA,33,1,11,0,2,NA
-Yorkshire and the Humber,2,53,1,11,0,7,5
-Yorkshire and the Humber,12,35,1,12,0,10,7
-Scotland,20,72,0,10,0,4,5
-Yorkshire and the Humber,20,85,1,15,0,4,5
-North West (England),0,39,1,12,0,3,NA
-Scotland,11,78,0,15,0,2,7
-North West (England),30,40,1,17,0,5,NA
-East Midlands (England),14,21,0,15,0,7,7
-Scotland,18,72,0,12,0,8,1
-Yorkshire and the Humber,10,68,1,11,0,2,5
-West Midlands (England),27,73,1,13,0,5,5
-Scotland,27,40,0,18,0,6,4
-London,20,49,0,16,0,10,7
-South East (England),9,NA,0,10,0,NA,NA
-London,27,30,0,17,0,7,4
-East of England,22,80,1,11,0,4,7
-London,25,71,1,16,0,10,6
-South East (England),12,71,1,11,0,NA,5
-Scotland,25,35,1,16,0,10,4
-North East (England),12,50,1,13,0,3,NA
-London,19,30,0,12,0,6,6
-Scotland,10,54,0,16,0,9,1
-South West (England),23,30,1,21,0,6,2
-Yorkshire and the Humber,18,49,1,14,0,NA,5
-South West (England),22,46,1,11,0,1,2
-East Midlands (England),30,18,0,13,0,NA,NA
-South West (England),23,48,1,14,0,8,3
-West Midlands (England),6,50,1,11,0,2,5
-South East (England),24,37,1,12,0,10,5
-South West (England),23,40,0,16,0,10,6
-London,20,88,1,12,0,1,5
-South East (England),17,56,1,11,0,1,0
-South East (England),30,40,1,19,0,9,2
-North West (England),16,29,1,16,0,4,NA
-East of England,16,48,0,17,0,6,3
-South East (England),17,51,0,11,0,NA,7
-Wales,15,20,0,12,0,NA,NA
-North West (England),19,19,0,15,0,4,5
-Northern Ireland,9,61,1,11,0,7,5
-North East (England),15,24,0,15,0,NA,5
-North East (England),8,33,1,13,0,3,0
-Yorkshire and the Humber,6,67,1,10,0,3,5
-South West (England),14,33,1,15,0,3,NA
-North East (England),26,84,0,17,0,3,2
-East Midlands (England),NA,71,1,11,0,2,5
-North West (England),26,80,1,13,0,NA,5
-South West (England),9,38,1,17,0,3,5
-Yorkshire and the Humber,13,57,0,11,0,10,7
-Yorkshire and the Humber,22,66,1,19,0,7,5
-North West (England),22,64,1,10,0,5,5
-North West (England),0,36,1,14,0,7,5
-Yorkshire and the Humber,22,59,1,13,0,10,6
-East Midlands (England),30,51,0,15,0,NA,3
-Yorkshire and the Humber,NA,62,1,16,0,3,5
-East Midlands (England),22,73,0,9,0,4,NA
-East of England,28,44,1,21,0,7,3
-South East (England),18,36,1,18,0,8,5
-East Midlands (England),NA,78,1,10,0,NA,NA
-North West (England),30,69,1,20,0,7,3
-Scotland,26,45,0,19,0,8,3
-South West (England),20,72,0,13,0,3,6
-West Midlands (England),24,49,0,17,0,5,2
-North West (England),14,33,1,10,0,3,8
-North West (England),25,24,0,15,0,10,0
-South West (England),23,22,0,14,0,1,3
-East of England,22,46,0,15,0,7,7
-North West (England),13,26,1,16,0,NA,NA
-Wales,14,58,0,18,0,6,5
-South West (England),9,80,1,18,0,1,5
-North West (England),15,71,0,22,0,2,6
-Scotland,23,71,1,19,0,3,7
-South West (England),21,35,1,19,0,6,2
-South East (England),30,64,0,13,0,8,3
-London,16,76,1,10,0,1,4
-South East (England),3,22,1,9,0,4,NA
-East of England,NA,35,1,11,0,2,3
-East of England,19,60,0,12,0,8,5
-West Midlands (England),6,57,0,12,0,10,5
-North West (England),21,89,0,10,0,4,5
-Yorkshire and the Humber,21,85,0,10,0,7,6
-South West (England),22,30,1,11,0,5,5
-Scotland,12,51,1,11,0,6,5
-North West (England),27,40,1,11,0,4,5
-East of England,30,44,1,20,0,9,1
-East of England,20,36,0,15,0,7,5
-Northern Ireland,27,43,1,15,0,1,NA
-East Midlands (England),12,39,1,17,0,10,7
-Wales,23,55,0,20,0,NA,6
-South East (England),22,36,1,18,0,10,5
-South West (England),26,85,1,22,0,6,5
-East of England,24,NA,1,20,0,NA,3
-Scotland,2,61,0,20,0,8,5
-London,7,59,0,41,0,1,7
-West Midlands (England),13,53,0,16,0,4,5
-West Midlands (England),14,77,0,7,0,1,6
-East of England,17,55,1,20,0,10,6
-South East (England),25,58,0,17,0,6,3
-North West (England),17,48,0,15,0,10,4
-East Midlands (England),12,41,0,15,0,NA,6
-South West (England),13,74,1,11,0,NA,7
-South West (England),28,24,0,17,1,7,2
-North West (England),0,67,1,10,0,2,6
-Scotland,28,18,0,13,0,NA,NA
-East of England,15,84,1,10,0,1,8
-Northern Ireland,22,56,1,14,0,3,6
-South East (England),16,56,1,12,1,8,7
-East of England,20,56,1,12,0,10,5
-East Midlands (England),19,49,0,11,0,8,3
-West Midlands (England),13,65,1,12,0,1,NA
-Scotland,30,54,1,20,0,8,2
-Scotland,30,33,1,19,0,4,5
-Wales,10,67,1,10,0,1,1
-West Midlands (England),24,38,1,17,0,6,5
-South West (England),15,56,1,12,0,10,NA
-Yorkshire and the Humber,12,59,0,14,0,3,5
-South East (England),24,45,1,19,0,10,1
-North West (England),9,61,1,11,0,1,0
-Yorkshire and the Humber,13,54,0,14,0,8,NA
-East Midlands (England),20,69,1,17,0,7,3
-South West (England),1,42,0,15,0,NA,10
-West Midlands (England),16,37,1,11,0,5,5
-East Midlands (England),15,47,1,12,0,10,7
-Scotland,24,62,0,18,0,1,4
-South East (England),0,71,0,8,0,NA,NA
-North West (England),22,21,0,14,1,1,1
-Yorkshire and the Humber,14,64,0,12,0,1,3
-Scotland,15,77,1,16,0,1,8
-South West (England),NA,82,0,10,0,2,10
-West Midlands (England),4,76,0,9,0,1,2
-South East (England),17,78,0,10,0,3,7
-South East (England),13,35,1,14,0,2,0
-Scotland,8,19,1,13,0,NA,NA
-North West (England),19,41,0,12,0,1,2
-East Midlands (England),21,53,1,12,0,6,6
-North West (England),19,36,0,11,0,10,3
-Scotland,30,56,1,18,0,9,1
-South East (England),19,50,0,25,0,NA,7
-East Midlands (England),15,47,0,19,0,NA,7
-Yorkshire and the Humber,27,42,0,17,0,6,2
-Yorkshire and the Humber,21,38,0,13,0,1,4
-Yorkshire and the Humber,7,31,1,10,1,3,7
-West Midlands (England),24,53,0,27,0,2,6
-North West (England),26,36,0,17,0,8,2
-East Midlands (England),7,36,0,12,0,6,4
-East of England,17,35,1,16,0,3,5
-East of England,22,17,1,11,0,NA,3
-Wales,14,64,0,19,0,4,5
-East Midlands (England),28,71,1,10,0,4,7
-South East (England),NA,15,1,11,0,NA,7
-North West (England),14,16,0,12,0,NA,5
-Northern Ireland,22,23,1,14,0,2,5
-Scotland,20,63,1,11,0,3,5
-North West (England),15,33,1,12,0,3,5
-London,21,61,1,15,0,1,4
-Wales,12,29,1,17,0,5,NA
-South East (England),18,69,1,12,0,4,6
-Scotland,7,69,0,10,0,8,5
-South East (England),25,62,1,11,0,NA,5
-Wales,28,73,1,20,0,6,3
-South East (England),17,33,1,16,0,7,5
-South East (England),11,26,0,14,0,1,4
-South East (England),14,72,0,17,0,5,5
-Scotland,23,69,1,15,0,2,6
-South West (England),NA,56,0,14,0,9,7
-Yorkshire and the Humber,9,81,1,12,0,6,5
-South West (England),30,56,0,24,0,NA,4
-South East (England),17,69,1,17,0,7,5
-West Midlands (England),11,55,1,19,0,7,5
-North West (England),14,85,1,18,0,3,7
-East Midlands (England),10,70,1,11,0,3,NA
-Yorkshire and the Humber,9,82,1,10,0,2,5
-North East (England),14,62,0,16,0,6,4
-South East (England),19,36,0,17,0,10,7
-South West (England),24,42,0,13,0,9,4
-West Midlands (England),29,35,1,19,0,NA,4
-East of England,25,49,0,11,0,5,3
-Scotland,27,58,0,15,0,3,3
-East of England,24,48,1,14,0,10,5
-Yorkshire and the Humber,21,24,0,15,0,5,3
-Yorkshire and the Humber,12,26,0,14,0,8,2
-East Midlands (England),0,58,0,12,0,3,5
-South East (England),16,57,1,21,0,7,5
-Scotland,25,72,0,20,0,7,4
-East Midlands (England),13,24,0,12,0,5,5
-South West (England),4,18,1,11,0,NA,7
-East of England,9,28,1,13,0,2,NA
-Northern Ireland,25,32,0,15,0,4,8
-South West (England),16,78,1,16,0,2,5
-North East (England),17,34,0,17,0,3,6
-Yorkshire and the Humber,26,23,0,15,0,7,3
-Northern Ireland,15,51,1,11,0,2,5
-North West (England),24,54,0,11,0,1,4
-Yorkshire and the Humber,22,29,1,13,0,6,5
-North West (England),18,51,1,19,0,6,NA
-Wales,8,31,0,14,0,1,5
-Northern Ireland,28,60,1,17,0,10,5
-South West (England),20,81,1,11,0,4,5
-East Midlands (England),12,61,0,10,0,6,5
-North West (England),20,46,1,11,0,9,5
-North West (England),20,79,0,NA,0,NA,4
-East of England,18,26,1,17,0,1,1
-South West (England),22,64,0,18,0,6,2
-South West (England),16,37,0,16,0,7,7
-East of England,26,44,1,20,0,7,4
-East Midlands (England),15,69,0,15,0,3,6
-South West (England),18,41,1,11,0,4,5
-Northern Ireland,1,18,1,13,0,NA,0
-South East (England),30,85,0,10,0,4,0
-West Midlands (England),24,63,0,21,0,10,5
-East of England,17,51,1,12,0,6,7
-East of England,15,33,1,13,0,2,NA
-Northern Ireland,25,33,0,21,0,6,4
-North West (England),15,67,1,11,0,1,NA
-Scotland,19,32,1,17,0,9,5
-Scotland,5,35,0,14,0,7,0
-South West (England),12,53,0,16,0,10,7
-East Midlands (England),16,33,0,11,0,8,5
-East Midlands (England),19,61,0,18,0,9,3
-Wales,18,57,1,19,0,7,5
-West Midlands (England),17,20,0,14,0,2,6
-East of England,18,87,1,14,0,3,5
-North West (England),10,70,1,10,0,3,9
-Scotland,23,59,1,12,0,1,7
-London,19,46,0,17,0,5,4
-South West (England),26,71,1,10,0,6,NA
-South East (England),15,89,0,9,0,2,10
-Scotland,18,49,1,14,0,4,3
-East Midlands (England),25,33,1,18,0,7,2
-North West (England),17,63,1,10,0,2,5
-London,24,42,0,16,0,8,3
-North East (England),15,52,0,11,0,2,2
-South East (England),23,36,0,13,0,3,5
-London,24,43,1,16,0,8,0
-East Midlands (England),21,32,1,17,0,6,3
-West Midlands (England),NA,77,1,10,0,NA,6
-South West (England),21,31,0,10,0,3,5
-London,30,46,1,18,0,8,2
-Yorkshire and the Humber,19,72,0,8,0,1,7
-South East (England),19,70,1,14,0,8,5
-Scotland,20,83,0,13,0,5,4
-South East (England),14,58,0,11,0,1,7
-North West (England),25,18,1,13,0,NA,4
-West Midlands (England),6,22,1,11,0,2,5
-West Midlands (England),13,35,1,12,0,4,NA
-East of England,24,55,0,18,0,10,6
-South West (England),23,73,0,12,0,5,2
-West Midlands (England),21,79,1,30,0,1,8
-East of England,15,36,0,11,0,6,4
-North West (England),18,74,1,10,0,4,4
-Scotland,24,53,1,11,0,7,0
-South East (England),16,51,1,17,0,8,4
-Yorkshire and the Humber,14,70,0,9,0,1,3
-North West (England),29,61,1,17,0,6,1
-South East (England),28,26,0,17,0,7,0
-North West (England),28,47,0,13,0,8,2
-North West (England),25,51,0,16,0,5,3
-East of England,24,66,0,17,0,10,5
-Wales,18,64,1,15,0,9,5
-East of England,22,42,1,13,0,8,2
-Scotland,30,50,0,15,0,10,5
-South East (England),26,41,0,18,0,4,1
-South West (England),24,57,0,20,0,10,5
-Yorkshire and the Humber,17,46,1,12,0,7,5
-North West (England),13,16,1,12,0,NA,5
-North West (England),18,62,1,15,0,3,6
-Yorkshire and the Humber,20,73,1,10,0,2,7
-East of England,25,54,0,16,0,8,4
-North West (England),10,41,1,11,0,2,5
-South East (England),0,90,1,10,0,NA,NA
-East of England,14,79,1,10,0,9,6
-East of England,14,49,1,13,0,3,5
-West Midlands (England),17,46,1,13,0,7,5
-London,15,27,1,14,0,3,8
-Northern Ireland,15,50,1,19,0,8,8
-London,23,57,0,15,0,NA,2
-Wales,14,40,1,14,0,5,5
-South East (England),27,51,0,10,0,8,5
-West Midlands (England),12,50,1,15,0,6,4
-Yorkshire and the Humber,11,53,0,12,0,2,8
-Scotland,15,36,1,16,0,7,3
-Northern Ireland,15,26,0,12,0,NA,5
-North West (England),9,23,0,18,0,3,5
-South East (England),30,69,1,16,0,5,5
-South East (England),16,49,1,18,0,4,5
-North West (England),18,30,1,16,0,9,5
-South West (England),21,79,1,12,0,1,7
-East Midlands (England),18,35,0,14,0,7,5
-Wales,26,67,0,11,0,7,6
-North West (England),0,53,0,12,0,5,NA
-West Midlands (England),6,77,0,10,0,5,3
-South West (England),30,45,0,11,0,1,5
-Northern Ireland,19,42,0,12,0,6,5
-East of England,27,35,0,18,0,10,3
-North West (England),15,49,0,16,0,3,7
-East of England,21,64,1,16,0,NA,3
-North West (England),20,61,0,12,0,NA,0
-North West (England),25,42,0,19,0,8,4
-Wales,4,87,1,8,0,NA,5
-South West (England),NA,75,1,14,0,3,5
-London,25,83,0,15,0,2,5
-Wales,27,32,0,21,0,5,2
-London,15,61,0,20,0,5,5
-South East (England),4,52,0,15,0,8,5
-South West (England),21,39,1,12,0,1,5
-Yorkshire and the Humber,9,70,1,12,0,1,10
-Yorkshire and the Humber,17,72,1,18,0,8,4
-North West (England),15,60,1,10,0,2,5
-North East (England),0,28,1,12,1,1,0
-North West (England),10,54,1,12,0,NA,6
-Yorkshire and the Humber,15,64,1,13,1,1,2
-East of England,21,56,0,14,0,2,5
-South West (England),29,24,1,19,0,2,3
-East of England,18,39,1,11,0,3,2
-South East (England),NA,48,0,3,0,3,0
-Scotland,22,35,1,21,0,9,4
-Northern Ireland,18,64,1,16,0,4,5
-Scotland,21,55,1,17,0,2,5
-North West (England),23,62,1,17,0,1,7
-South West (England),15,77,1,10,0,5,5
-East of England,20,15,0,11,0,2,7
-South East (England),22,73,1,16,0,8,5
-South West (England),30,34,0,19,0,8,4
-South East (England),15,64,1,14,0,1,5
-East of England,24,31,1,17,0,4,3
-London,23,51,1,20,0,10,4
-South East (England),11,78,0,11,0,2,7
-East Midlands (England),24,41,0,13,0,10,6
-London,28,34,0,18,0,10,7
-North East (England),17,38,0,16,0,6,5
-Yorkshire and the Humber,28,56,0,16,0,6,6
-North West (England),16,83,0,11,0,2,5
-South West (England),23,89,1,13,0,1,5
-North East (England),17,31,1,11,0,1,5
-Wales,7,67,0,20,0,NA,8
-West Midlands (England),11,63,1,11,0,NA,8
-South East (England),9,56,0,18,0,2,2
-London,17,48,1,15,0,1,4
-East of England,23,66,1,12,0,3,8
-East Midlands (England),21,68,1,17,0,10,4
-East Midlands (England),6,58,1,12,0,7,5
-South East (England),17,68,1,13,0,2,4
-South West (England),12,73,1,10,0,NA,8
-East Midlands (England),0,21,0,10,0,NA,NA
-Scotland,27,51,1,14,0,8,3
-South West (England),15,69,1,11,0,3,NA
-South West (England),28,54,1,17,0,9,5
-West Midlands (England),13,72,0,8,0,3,7
-East of England,0,54,1,13,0,NA,5
-North West (England),5,75,0,14,0,NA,9
-Yorkshire and the Humber,24,60,1,15,0,2,2
-London,12,62,1,14,0,3,5
-East of England,28,39,1,17,0,6,3
-North West (England),17,50,0,15,0,7,8
-West Midlands (England),NA,63,1,10,0,1,NA
-West Midlands (England),19,77,1,15,0,1,8
-South East (England),13,70,0,16,0,9,7
-North East (England),19,50,0,10,0,NA,8
-Yorkshire and the Humber,13,73,1,10,0,3,NA
-Northern Ireland,24,46,0,19,0,10,3
-Northern Ireland,21,60,1,12,0,4,5
-West Midlands (England),27,26,1,11,1,1,0
-East Midlands (England),15,35,0,13,0,8,8
-Scotland,6,59,0,13,0,7,5
-Yorkshire and the Humber,11,69,1,29,0,2,5
-Wales,15,75,0,16,0,10,6
-Yorkshire and the Humber,19,55,0,11,0,4,5
-Scotland,14,75,1,NA,0,NA,0
-London,21,84,0,NA,0,NA,5
-East of England,28,88,1,8,0,1,8
-North West (England),0,36,0,11,1,1,3
-East Midlands (England),NA,65,1,10,0,NA,NA
-South East (England),23,28,0,18,0,7,2
-Wales,13,76,0,11,0,2,8
-Scotland,17,77,1,10,0,1,5
-East Midlands (England),3,56,0,13,0,2,2
-North West (England),21,51,0,12,0,8,7
-West Midlands (England),3,50,1,11,0,7,5
-London,19,50,0,16,0,10,7
-Yorkshire and the Humber,9,47,0,11,0,10,5
-South East (England),19,72,0,12,0,7,7
-South East (England),28,71,0,11,0,8,5
-South East (England),NA,55,1,17,0,1,5
-London,15,36,0,11,0,5,0
-Yorkshire and the Humber,21,24,0,16,0,8,5
-Scotland,18,78,0,10,0,NA,3
-East of England,15,26,0,12,0,NA,5
-East Midlands (England),9,57,1,16,0,10,5
-North West (England),8,30,1,16,0,3,NA
-Wales,22,68,1,20,0,2,3
-South East (England),8,67,1,10,0,NA,4
-West Midlands (England),18,41,1,16,0,8,3
-Northern Ireland,23,53,0,12,0,1,5
-Wales,13,49,0,15,1,3,5
-South East (England),19,81,0,18,0,3,4
-London,4,66,0,12,0,8,NA
-South East (England),22,41,0,17,0,7,3
-South West (England),26,71,0,19,0,4,2
-North West (England),12,74,1,11,0,8,7
-South West (England),19,36,1,17,0,5,5
-South East (England),16,83,1,18,0,3,6
-West Midlands (England),21,35,0,18,0,NA,5
-North East (England),NA,65,1,20,0,7,5
-Scotland,14,33,0,13,0,9,3
-Wales,7,70,0,12,0,NA,3
-South East (England),27,58,1,16,0,10,4
-East of England,15,54,0,10,0,6,4
-Wales,13,57,0,16,0,NA,5
-South West (England),11,54,1,13,0,6,8
-East of England,1,82,1,11,0,5,6
-North West (England),10,16,0,10,0,5,8
-London,3,53,0,10,0,9,5
-North West (England),13,72,1,10,0,NA,7
-London,17,58,0,11,0,7,4
-South East (England),26,24,1,17,0,5,4
-South East (England),1,41,1,24,0,2,6
-West Midlands (England),16,40,1,11,0,2,5
-East of England,15,85,1,11,0,3,8
-East of England,17,84,1,7,0,1,NA
-Scotland,13,49,1,11,0,1,NA
-Wales,20,38,1,20,0,6,5
-North West (England),12,78,1,10,0,NA,NA
-East of England,18,69,0,11,0,10,4
-South East (England),15,37,1,16,0,9,5
-North East (England),20,35,1,16,0,10,5
-North West (England),16,34,1,14,0,2,1
-South West (England),25,55,1,13,0,10,7
-East Midlands (England),1,54,1,11,0,5,1
-North West (England),16,39,0,13,0,5,6
-North East (England),10,22,1,12,0,3,10
-North West (England),14,27,1,14,0,8,8
-East of England,30,61,0,17,0,7,5
-West Midlands (England),13,66,1,12,0,10,5
-Wales,NA,77,1,16,0,6,10
-North East (England),20,43,0,14,0,7,4
-Scotland,16,27,1,11,0,5,4
-South West (England),9,58,0,13,0,1,5
-West Midlands (England),0,77,0,19,0,NA,5
-North West (England),26,62,1,18,0,1,3
-South East (England),0,80,0,11,0,3,5
-South West (England),30,25,0,16,0,4,4
-London,13,59,0,16,0,4,7
-East Midlands (England),6,79,1,9,0,NA,5
-East of England,9,71,1,13,0,NA,5
-North East (England),21,21,0,21,0,8,3
-South East (England),13,69,1,10,0,2,5
-North West (England),13,73,0,10,0,NA,5
-North East (England),6,47,1,17,0,2,5
-Yorkshire and the Humber,13,78,1,10,0,1,3
-North West (England),15,70,1,10,0,10,5
-East Midlands (England),15,73,0,20,0,5,4
-North West (England),22,71,1,12,0,2,5
-East of England,15,28,1,11,0,3,5
-East Midlands (England),27,32,0,18,0,4,5
-North West (England),22,74,0,12,0,6,8
-Yorkshire and the Humber,23,76,0,12,0,NA,8
-North East (England),6,81,1,17,0,4,NA
-North West (England),11,83,1,16,0,NA,5
-Scotland,11,60,1,10,0,2,NA
-North East (England),9,49,1,13,1,2,0
-South East (England),8,49,0,12,0,6,5
-West Midlands (England),8,55,0,14,0,9,8
-East of England,24,90,1,10,0,NA,6
-Yorkshire and the Humber,14,47,1,11,0,2,7
-Scotland,8,50,1,13,0,1,4
-South West (England),24,76,1,17,0,4,7
-East Midlands (England),12,80,0,11,0,5,5
-South East (England),7,71,0,12,0,7,9
-North West (England),13,80,1,10,0,5,6
-South West (England),25,60,1,12,0,8,3
-South East (England),13,41,1,16,0,6,5
-North West (England),12,64,1,10,0,1,5
-East of England,15,51,1,14,0,NA,5
-Yorkshire and the Humber,14,55,1,13,0,7,7
-West Midlands (England),12,52,1,15,0,1,5
-Yorkshire and the Humber,20,73,0,15,0,NA,8
-North West (England),9,72,0,16,0,4,8
-Scotland,22,33,0,17,0,6,6
-Yorkshire and the Humber,21,43,0,14,0,2,3
-London,24,NA,1,18,0,8,7
-Scotland,24,27,0,15,0,4,5
-London,15,73,0,10,0,6,10
-Yorkshire and the Humber,13,62,1,10,0,1,2
-South West (England),11,38,0,14,0,8,2
-South East (England),24,39,0,15,0,7,7
-South West (England),13,55,1,14,0,9,NA
-East Midlands (England),21,80,0,18,0,3,5
-West Midlands (England),22,48,1,11,0,8,3
-South East (England),18,46,1,17,0,2,0
-London,0,55,1,11,0,NA,5
-West Midlands (England),6,26,1,12,0,1,3
-South West (England),9,74,1,12,0,3,7
-Scotland,26,46,0,13,0,8,6
-Scotland,19,28,0,10,0,1,4
-North West (England),27,23,1,13,0,3,5
-South West (England),27,57,0,17,0,10,5
-North West (England),19,63,1,13,0,7,5
-East Midlands (England),18,21,0,13,1,NA,6
-South West (England),23,65,1,15,0,9,5
-South East (England),25,59,1,16,0,6,5
-Scotland,20,47,1,22,0,9,4
-East Midlands (England),17,31,0,16,1,8,7
-South West (England),23,67,1,14,0,4,3
-Scotland,22,31,0,12,0,4,6
-South West (England),25,72,0,14,0,5,3
-North East (England),16,22,1,13,0,1,5
-North West (England),23,NA,0,17,0,NA,5
-North West (England),7,84,0,11,0,2,6
-South West (England),9,72,1,11,0,2,5
-North East (England),13,89,0,7,0,1,7
-Yorkshire and the Humber,9,66,1,11,0,2,3
-East of England,1,28,0,12,0,5,8
-North West (England),24,30,1,18,0,8,NA
-South East (England),26,52,1,17,0,NA,4
-East Midlands (England),15,65,1,11,0,NA,7
-South East (England),26,62,1,22,0,10,6
-South East (England),17,61,1,15,0,NA,6
-Yorkshire and the Humber,13,37,1,15,0,8,5
-Yorkshire and the Humber,7,57,1,12,0,6,2
-South East (England),19,21,0,15,0,3,6
-South East (England),17,90,1,14,0,NA,5
-South East (England),25,51,1,15,0,5,4
-East of England,22,16,0,12,0,NA,NA
-Wales,23,72,0,11,0,1,2
-South East (England),17,76,1,19,0,10,8
-North East (England),4,64,1,14,0,NA,5
-East Midlands (England),22,31,1,15,0,2,2
-Scotland,20,26,1,16,0,5,NA
-Northern Ireland,6,57,0,10,0,NA,NA
-Northern Ireland,12,39,0,12,0,7,7
-Scotland,21,31,1,13,0,6,NA
-South East (England),12,90,0,16,0,8,7
-Wales,14,51,0,12,0,4,2
-Yorkshire and the Humber,17,48,0,11,0,7,5
-West Midlands (England),20,NA,1,10,0,3,0
-East of England,25,38,1,16,0,10,3
-Scotland,22,48,0,11,0,10,5
-South East (England),8,60,0,13,0,NA,7
-London,17,86,1,9,0,NA,8
-Wales,14,47,1,12,0,5,5
-South West (England),12,71,0,11,0,1,10
-South East (England),24,47,1,23,0,10,6
-East Midlands (England),15,47,1,16,0,5,4
-Yorkshire and the Humber,6,80,0,10,0,1,5
-East of England,14,24,0,17,0,5,4
-South West (England),6,32,0,15,0,NA,6
-East of England,19,31,1,18,0,9,2
-South East (England),7,44,1,13,0,4,8
-Wales,4,60,1,12,0,5,1
-Wales,3,66,0,16,0,5,5
-South West (England),18,54,0,11,0,2,6
-North West (England),15,21,1,16,0,7,6
-West Midlands (England),0,85,0,9,0,8,5
-South East (England),14,62,1,12,0,4,5
-South East (England),20,20,0,14,0,4,4
-Scotland,14,64,0,10,0,1,5
-West Midlands (England),22,70,0,15,0,8,7
-East of England,18,57,1,16,0,10,5
-North East (England),7,66,1,14,0,3,4
-South West (England),11,59,1,14,0,1,5
-South West (England),20,54,1,12,0,2,NA
-South East (England),21,40,0,18,0,6,5
-London,17,68,0,19,0,3,7
-London,26,52,0,15,0,NA,6
-South West (England),5,71,0,16,0,7,5
-East Midlands (England),23,83,0,14,0,3,5
-West Midlands (England),2,69,1,10,0,NA,9
-East of England,17,22,0,17,0,3,4
-West Midlands (England),19,44,1,13,0,5,5
-North West (England),27,63,0,14,0,10,5
-South West (England),28,45,1,18,0,2,4
-North West (England),18,51,0,13,0,7,5
-North West (England),22,67,0,10,0,4,3
-Scotland,21,26,0,17,0,9,6
-North West (England),7,42,0,16,0,7,5
-Scotland,19,24,1,15,0,2,3
-Scotland,14,26,0,11,1,1,5
-South West (England),0,70,1,10,0,2,5
-South East (England),14,82,1,13,0,2,5
-South East (England),17,35,1,16,0,7,5
-Yorkshire and the Humber,11,27,1,17,0,8,5
-Scotland,15,69,0,10,0,7,5
-North West (England),5,75,0,10,0,7,10
-East of England,11,77,1,10,0,NA,5
-North West (England),18,73,0,10,0,1,5
-London,0,88,1,9,0,NA,NA
-East of England,16,56,0,12,0,7,5
-East of England,25,28,1,14,0,9,5
-Scotland,30,66,0,19,0,4,4
-East of England,28,18,1,11,0,8,6
-London,17,NA,0,14,0,1,8
-North West (England),25,29,0,23,0,8,4
-East Midlands (England),21,63,0,10,0,7,5
-North West (England),14,56,0,11,0,6,5
-Scotland,NA,63,1,10,0,5,7
-North West (England),18,72,0,16,0,4,5
-South East (England),21,44,0,13,0,7,3
-Scotland,0,59,0,20,0,7,10
-London,9,83,0,9,0,3,3
-East of England,22,50,0,15,0,9,5
-London,12,79,0,9,0,NA,NA
-South East (England),24,28,0,17,0,8,5
-North East (England),27,53,1,25,0,3,4
-West Midlands (England),21,21,0,20,0,NA,5
-South West (England),10,53,1,12,0,5,5
-East of England,14,50,0,11,0,8,10
-North West (England),23,64,0,16,0,4,5
-East Midlands (England),15,53,0,12,0,8,5
-Yorkshire and the Humber,10,45,0,11,1,1,5
-Yorkshire and the Humber,17,80,0,10,0,2,6
-East of England,13,30,1,15,0,8,4
-North East (England),15,45,0,15,0,10,5
-South West (England),15,67,1,10,0,4,6
-Scotland,14,63,1,10,0,1,5
-Yorkshire and the Humber,19,27,0,22,0,7,5
-South West (England),24,24,1,17,0,9,6
-South East (England),19,48,1,20,0,10,7
-East of England,27,44,1,11,0,7,5
-North West (England),14,65,0,11,0,1,5
-North West (England),15,47,1,18,0,5,4
-North East (England),17,78,0,15,0,1,10
-North West (England),18,43,0,13,0,1,6
-South West (England),16,90,0,11,0,NA,5
-South East (England),7,53,1,11,0,10,5
-North West (England),8,76,1,12,0,3,5
-Yorkshire and the Humber,17,51,1,11,0,9,5
-North East (England),0,25,1,12,0,9,5
-Scotland,7,28,0,11,0,5,5
-South East (England),7,69,1,10,0,3,7
-South East (England),21,64,1,13,0,7,7
-London,19,17,1,12,0,NA,5
-South East (England),26,54,1,21,0,NA,2
-South West (England),21,72,1,10,0,1,8
-North West (England),17,33,1,15,0,10,5
-Yorkshire and the Humber,28,71,1,17,0,4,3
-London,13,41,1,24,0,1,5
-Wales,23,58,0,18,0,9,1
-East Midlands (England),11,60,1,11,0,6,5
-London,8,33,0,12,0,4,4
-South East (England),NA,51,0,17,0,10,NA
-North East (England),18,41,1,18,0,9,5
-North East (England),19,58,0,12,0,8,3
-South East (England),NA,NA,0,11,0,NA,6
-North West (England),21,29,1,11,0,2,5
-Scotland,21,58,0,6,0,1,5
-South West (England),19,65,1,11,0,6,5
-East of England,5,48,0,10,0,8,7
-Scotland,19,71,1,12,0,NA,5
-North West (England),10,59,0,11,0,NA,5
-South East (England),9,27,0,15,0,4,5
-East Midlands (England),26,31,1,11,0,1,8
-London,27,32,1,19,0,5,1
-Northern Ireland,26,25,1,12,0,3,2
-South East (England),26,29,0,16,0,8,6
-South West (England),9,76,0,11,0,7,7
-North West (England),15,70,1,16,0,8,7
-London,27,46,1,15,0,10,0
-East of England,4,72,0,12,0,2,5
-South West (England),21,24,1,17,0,9,3
-East of England,NA,55,0,12,0,3,NA
-East of England,25,53,1,19,0,7,4
-Yorkshire and the Humber,30,47,1,20,0,10,3
-West Midlands (England),21,54,1,17,0,6,5
-South East (England),22,44,0,13,0,2,5
-South East (England),11,72,0,18,0,7,6
-South West (England),4,53,0,12,0,8,10
-South West (England),16,74,1,10,0,2,5
-South West (England),4,52,1,11,0,6,5
-London,18,59,0,17,0,NA,NA
-North West (England),21,31,1,15,0,3,NA
-East Midlands (England),8,54,0,9,0,3,NA
-Scotland,7,60,0,11,0,9,6
-East Midlands (England),8,64,0,14,0,10,8
-West Midlands (England),14,19,1,13,0,5,6
-London,24,71,0,16,0,4,3
-West Midlands (England),18,41,0,11,0,6,NA
-South West (England),7,69,0,12,0,8,7
-Scotland,9,37,1,10,0,4,4
-North West (England),29,68,1,15,0,1,0
-Yorkshire and the Humber,30,49,1,13,0,7,NA
-Yorkshire and the Humber,16,25,1,14,1,NA,5
-Wales,24,44,0,16,0,5,3
-East of England,8,54,0,13,1,2,0
-East of England,17,61,0,13,0,2,5
-London,29,32,0,17,1,8,2
-South East (England),24,69,0,13,0,6,4
-East of England,22,59,1,16,0,8,4
-London,18,78,1,18,0,6,7
-South East (England),17,59,1,13,0,3,5
-Yorkshire and the Humber,18,30,1,10,1,1,5
-Yorkshire and the Humber,22,72,1,10,0,2,8
-East Midlands (England),15,28,1,14,0,5,5
-South West (England),8,47,0,11,0,2,7
-London,16,52,0,NA,0,10,6
-South West (England),14,56,1,23,0,8,4
-Yorkshire and the Humber,25,17,1,11,0,1,10
-London,12,86,1,9,0,1,4
-South East (England),28,38,1,20,0,10,5
-South East (England),18,27,1,12,0,7,NA
-South West (England),16,57,0,12,0,5,8
-South East (England),26,32,0,16,0,7,3
-East Midlands (England),6,41,1,17,0,3,4
-South West (England),22,28,0,15,0,10,3
-South West (England),27,81,1,10,0,1,5
-West Midlands (England),3,63,0,10,0,1,4
-South East (England),19,86,0,NA,0,NA,7
-South East (England),15,42,1,13,0,1,5
-Wales,12,69,0,10,0,NA,5
-West Midlands (England),27,74,0,15,0,6,3
-North West (England),9,34,0,11,0,4,2
-South East (England),15,46,1,16,0,10,7
-North West (England),8,58,1,11,0,3,10
-South East (England),7,67,1,11,0,3,4
-East Midlands (England),13,68,1,12,0,2,7
-Scotland,0,90,1,8,0,1,NA
-Northern Ireland,12,56,1,12,0,1,NA
-East of England,NA,82,1,11,0,1,6
-South East (England),20,70,0,10,0,3,5
-South East (England),12,49,1,16,0,10,8
-Yorkshire and the Humber,17,33,0,14,0,8,5
-Northern Ireland,24,33,0,13,0,3,6
-South West (England),21,85,1,11,0,4,10
-Yorkshire and the Humber,18,79,0,20,0,NA,4
-East of England,NA,58,1,14,0,9,8
-South East (England),8,45,1,NA,0,10,NA
-North West (England),7,75,0,19,0,5,10
-Wales,13,74,1,23,0,NA,5
-West Midlands (England),28,51,1,21,0,7,3
-East of England,9,57,1,14,0,1,NA
-West Midlands (England),23,27,1,18,0,7,4
-Scotland,20,27,0,15,0,4,8
-Scotland,14,44,0,14,0,2,5
-South West (England),16,25,0,15,0,8,5
-East of England,21,71,1,10,0,2,5
-South East (England),24,45,1,18,0,10,4
-North East (England),17,49,0,12,0,8,6
-North West (England),14,29,1,11,0,6,NA
-East Midlands (England),17,64,1,17,0,3,10
-Scotland,21,15,0,10,0,NA,NA
-Scotland,25,35,1,12,0,5,3
-South West (England),28,39,1,12,0,1,NA
-South East (England),22,46,1,18,0,8,5
-South East (England),17,72,0,17,0,NA,5
-South East (England),18,52,0,18,0,9,5
-Scotland,17,84,1,9,0,2,5
-South West (England),16,74,1,16,0,1,6
-Yorkshire and the Humber,15,47,1,11,0,10,7
-South East (England),9,45,1,11,0,NA,5
-South East (England),20,68,1,26,0,8,4
-South West (England),24,50,1,16,0,10,5
-South West (England),0,42,0,11,0,8,5
-West Midlands (England),25,49,1,11,0,NA,NA
-Scotland,16,46,1,15,0,5,3
-London,26,40,0,32,0,10,4
-East Midlands (England),17,54,0,7,0,10,7
-South West (England),20,38,1,21,0,10,4
-North West (England),15,64,0,14,0,8,7
-North West (England),18,83,1,10,0,2,5
-East Midlands (England),8,52,1,11,0,1,5
-East of England,18,56,0,9,0,1,5
-North West (England),20,40,1,17,0,6,2
-Wales,14,28,1,20,1,2,4
-South West (England),10,84,0,10,0,1,5
-London,28,50,1,11,0,1,2
-South West (England),20,43,1,12,0,4,5
-East of England,8,62,1,10,0,NA,NA
-North East (England),21,27,0,13,0,8,2
-Yorkshire and the Humber,25,69,1,28,0,8,1
-London,21,40,1,15,0,5,5
-West Midlands (England),21,55,0,16,0,4,8
-Yorkshire and the Humber,20,70,0,10,0,2,3
-London,13,65,0,10,0,NA,4
-South West (England),14,45,1,19,0,9,7
-South East (England),16,87,0,12,0,7,8
-South East (England),21,82,1,10,0,2,6
-North East (England),26,50,0,15,0,5,2
-West Midlands (England),20,48,1,11,0,7,NA
-Yorkshire and the Humber,15,45,1,10,0,2,NA
-Wales,15,63,1,18,0,5,5
-West Midlands (England),25,90,0,10,0,NA,5
-East of England,20,24,0,22,0,NA,5
-North East (England),20,71,1,16,0,NA,9
+region,age,female,eduyrs,unemployed,incomeBracket,leftRight,immigSentiment
+West Midlands (England),90,0,9,0,NA,5,24
+South West (England),61,1,10,0,7,5,7
+South East (England),62,1,10,0,2,3,14
+Northern Ireland,66,1,15,0,5,6,19
+Northern Ireland,68,0,12,0,3,NA,13
+Northern Ireland,63,0,18,0,10,7,20
+South West (England),70,0,10,0,1,8,8
+London,31,0,13,0,10,7,16
+East of England,62,0,11,0,2,8,14
+East Midlands (England),23,1,15,0,4,0,15
+South East (England),74,1,23,0,NA,3,30
+London,48,1,21,0,8,5,17
+Northern Ireland,26,0,11,0,4,5,18
+South West (England),31,1,14,0,2,5,3
+North West (England),36,1,13,0,2,6,15
+South East (England),21,1,18,0,NA,3,22
+South West (England),22,1,17,0,8,2,20
+East Midlands (England),23,0,11,0,9,3,22
+East of England,38,1,18,0,7,5,18
+Scotland,65,1,11,0,1,5,18
+North West (England),36,0,18,0,6,5,19
+South West (England),67,0,13,0,5,5,18
+West Midlands (England),58,0,15,0,6,6,24
+South West (England),54,1,16,0,8,5,25
+East of England,49,1,19,0,10,7,22
+East Midlands (England),38,0,14,0,3,NA,15
+Scotland,61,0,13,0,8,7,17
+East Midlands (England),56,0,11,0,9,NA,24
+East of England,34,1,11,0,3,5,19
+South West (England),71,1,10,0,NA,NA,13
+Yorkshire and the Humber,56,1,11,0,3,5,16
+East of England,35,1,21,0,7,8,24
+North West (England),35,0,12,0,NA,3,7
+London,54,1,10,0,1,10,2
+North East (England),77,1,10,0,NA,NA,14
+Wales,48,1,15,0,6,2,23
+North East (England),53,1,17,0,8,7,23
+East of England,19,0,15,0,NA,5,13
+South East (England),45,1,16,0,10,6,28
+South East (England),55,0,18,0,NA,3,27
+East of England,78,0,13,0,6,7,19
+London,50,1,19,0,6,5,17
+Northern Ireland,42,1,13,0,4,NA,8
+East Midlands (England),52,0,10,0,1,3,19
+South East (England),68,1,11,0,3,5,16
+South East (England),52,1,11,0,7,5,13
+South East (England),71,0,10,0,4,3,27
+South East (England),51,1,10,0,8,7,21
+East Midlands (England),58,0,11,0,5,6,3
+Wales,64,0,16,0,5,6,8
+Wales,63,0,10,0,8,6,7
+Wales,39,0,17,0,2,5,19
+South West (England),43,1,16,0,3,5,12
+Scotland,44,1,11,0,4,5,15
+West Midlands (England),69,0,10,0,2,2,0
+East of England,48,1,12,0,7,5,17
+Scotland,74,1,10,0,1,5,17
+South West (England),66,1,15,0,4,5,21
+East of England,71,0,15,0,6,8,9
+East of England,44,1,13,0,3,5,21
+East of England,60,0,20,0,5,5,23
+North West (England),30,0,10,0,8,2,22
+South West (England),69,0,17,0,1,5,20
+West Midlands (England),73,0,10,0,6,7,28
+London,17,0,12,0,NA,4,21
+South West (England),54,1,11,0,2,4,12
+Yorkshire and the Humber,56,1,19,0,9,NA,18
+London,72,1,10,0,NA,5,23
+London,71,0,16,0,10,3,13
+Yorkshire and the Humber,19,0,12,0,NA,NA,17
+South East (England),49,1,19,0,NA,4,18
+South West (England),29,0,17,0,5,5,19
+East of England,71,1,12,0,4,5,7
+East Midlands (England),82,0,10,0,NA,9,14
+East of England,60,1,13,0,7,7,7
+North West (England),41,0,12,0,NA,NA,2
+North West (England),27,1,12,0,7,5,22
+North West (England),48,0,12,0,NA,4,NA
+Yorkshire and the Humber,48,0,12,0,6,5,12
+Yorkshire and the Humber,61,0,18,0,10,6,22
+East Midlands (England),70,1,10,0,1,NA,16
+West Midlands (England),39,1,10,0,5,5,10
+South East (England),49,0,12,0,6,5,14
+East of England,54,0,14,0,7,7,28
+South West (England),79,0,16,0,7,7,21
+West Midlands (England),41,1,13,0,10,2,24
+South East (England),61,1,17,0,1,0,10
+Wales,50,1,13,0,7,6,15
+Scotland,40,0,16,0,10,4,28
+North West (England),29,1,16,0,NA,3,21
+East Midlands (England),19,1,14,0,NA,3,22
+Yorkshire and the Humber,82,0,21,0,3,8,11
+East of England,19,0,13,1,1,7,18
+Northern Ireland,42,1,18,0,1,2,15
+South East (England),82,0,13,0,5,7,12
+South West (England),71,0,11,0,2,6,22
+North West (England),58,0,11,0,NA,3,18
+North West (England),83,0,13,0,8,5,15
+East of England,51,1,19,0,10,4,28
+South West (England),87,1,22,0,1,4,18
+North East (England),68,1,12,0,5,2,12
+Scotland,47,1,14,0,3,5,6
+Yorkshire and the Humber,39,0,17,0,8,6,22
+South West (England),59,1,11,0,1,2,17
+Yorkshire and the Humber,81,0,11,0,1,5,8
+London,26,1,14,0,NA,5,17
+North West (England),78,1,13,0,3,5,14
+North West (England),43,0,13,0,3,5,10
+Yorkshire and the Humber,54,1,13,0,9,NA,22
+North East (England),34,1,17,0,3,NA,21
+North East (England),41,1,20,0,9,7,20
+South East (England),54,0,16,0,NA,5,12
+South East (England),67,1,10,0,NA,5,18
+East Midlands (England),72,0,15,0,7,4,24
+South East (England),77,0,12,0,NA,5,10
+Yorkshire and the Humber,67,0,24,0,7,6,11
+South East (England),32,1,14,0,1,NA,NA
+Yorkshire and the Humber,78,0,13,0,4,5,21
+East Midlands (England),69,1,10,0,1,NA,NA
+East of England,28,1,17,0,NA,5,19
+Northern Ireland,22,1,18,0,6,5,6
+London,65,1,12,0,6,7,19
+North West (England),68,1,11,0,1,5,18
+South East (England),66,1,11,0,4,9,10
+South East (England),59,1,13,0,7,NA,8
+North West (England),81,0,11,0,2,7,17
+East Midlands (England),30,1,22,0,5,6,26
+London,52,1,14,0,NA,10,NA
+London,NA,1,17,0,6,7,19
+East Midlands (England),80,0,10,0,4,5,18
+East Midlands (England),63,1,18,0,8,4,17
+North West (England),74,1,10,0,NA,2,5
+North West (England),22,1,16,0,NA,6,11
+North East (England),87,1,9,0,1,2,19
+South West (England),58,1,15,0,6,NA,15
+East of England,77,0,10,0,6,5,17
+South West (England),76,0,16,0,2,6,16
+South East (England),57,1,15,0,10,7,18
+Yorkshire and the Humber,31,0,15,1,NA,5,25
+East of England,73,1,13,0,3,7,9
+North East (England),68,0,11,0,10,8,10
+South West (England),25,1,22,0,7,3,22
+North East (England),82,1,14,0,NA,7,19
+East of England,37,0,18,0,3,3,23
+North East (England),71,0,19,0,8,8,20
+East of England,52,1,13,0,10,4,15
+Yorkshire and the Humber,76,0,14,0,7,5,21
+North West (England),45,1,11,0,2,6,21
+South East (England),79,1,13,0,2,9,24
+South East (England),30,0,9,0,10,5,15
+Yorkshire and the Humber,47,1,12,0,4,6,14
+South West (England),56,0,12,0,8,6,17
+North West (England),90,1,9,0,1,5,20
+Yorkshire and the Humber,57,0,11,0,3,0,26
+East of England,57,0,16,0,1,10,18
+Scotland,23,0,15,0,4,2,27
+West Midlands (England),73,0,10,0,7,3,18
+South West (England),73,0,12,0,1,9,NA
+East Midlands (England),30,1,17,0,6,6,26
+Yorkshire and the Humber,37,1,18,0,7,5,15
+North East (England),25,1,12,0,4,5,8
+North East (England),62,0,16,0,5,5,21
+London,68,1,23,0,6,3,27
+West Midlands (England),57,1,13,0,4,3,23
+Yorkshire and the Humber,53,0,11,0,3,4,17
+Yorkshire and the Humber,44,0,25,0,10,7,16
+East Midlands (England),26,0,17,0,2,6,19
+South East (England),69,0,11,0,6,5,22
+South East (England),32,1,17,0,NA,7,15
+South East (England),39,1,17,0,10,0,24
+Scotland,18,0,13,0,NA,5,18
+North East (England),45,1,15,0,7,5,20
+South West (England),56,1,14,0,6,7,11
+South West (England),69,1,11,0,2,NA,19
+East of England,76,1,11,0,3,3,6
+London,32,1,20,0,9,2,26
+North West (England),56,0,11,0,5,5,9
+West Midlands (England),31,0,15,0,2,5,19
+South East (England),56,1,NA,0,NA,5,21
+South East (England),88,0,25,0,NA,3,19
+North East (England),60,1,15,0,3,5,14
+Yorkshire and the Humber,32,0,14,0,9,5,24
+West Midlands (England),36,1,9,0,2,2,17
+East of England,84,1,18,0,NA,5,15
+Wales,74,0,10,0,NA,4,13
+Yorkshire and the Humber,63,0,12,0,3,5,15
+North West (England),50,1,12,0,2,5,0
+South West (England),72,0,17,0,5,3,30
+East Midlands (England),33,0,17,0,9,5,23
+Northern Ireland,65,0,15,0,8,7,13
+North West (England),77,1,11,0,2,8,16
+East of England,26,1,12,0,6,5,18
+Yorkshire and the Humber,69,0,13,0,4,6,10
+East Midlands (England),51,1,10,0,NA,8,20
+South East (England),52,0,20,0,8,5,18
+South East (England),67,1,10,0,NA,10,27
+East of England,30,1,12,0,4,1,21
+Scotland,66,0,17,0,8,3,30
+North East (England),70,1,11,0,3,6,9
+Northern Ireland,82,1,9,0,5,6,5
+East Midlands (England),72,0,20,0,7,6,17
+East Midlands (England),46,0,18,0,8,1,27
+North West (England),22,0,18,0,4,5,19
+North West (England),47,0,17,0,4,2,23
+South East (England),38,1,21,0,8,5,13
+Scotland,69,0,17,0,2,5,30
+North West (England),84,0,10,0,1,10,19
+Yorkshire and the Humber,68,1,19,0,NA,3,26
+South West (England),65,1,18,0,8,9,5
+Northern Ireland,55,1,12,0,1,4,24
+North West (England),73,0,16,0,5,7,10
+Yorkshire and the Humber,46,1,12,0,10,NA,16
+South East (England),63,1,14,0,9,5,21
+London,28,1,17,0,10,3,23
+South East (England),73,0,18,0,7,8,15
+South East (England),28,1,18,0,NA,5,15
+North West (England),54,0,12,0,10,5,0
+North West (England),66,0,11,0,2,6,19
+East of England,44,0,13,0,2,7,5
+East Midlands (England),57,0,19,0,7,6,14
+South East (England),15,1,10,0,NA,5,18
+West Midlands (England),51,1,12,0,4,5,4
+East Midlands (England),30,1,13,0,6,NA,23
+South West (England),49,1,19,0,8,4,NA
+East of England,47,0,24,0,10,3,26
+South West (England),48,0,14,0,10,7,22
+West Midlands (England),40,1,13,0,3,5,16
+East Midlands (England),31,1,17,0,4,5,23
+Yorkshire and the Humber,27,1,12,0,4,5,10
+South West (England),57,0,12,0,7,5,10
+East Midlands (England),31,1,14,0,10,5,14
+East of England,18,1,13,1,1,3,25
+East Midlands (England),29,0,16,0,10,NA,14
+London,33,1,19,0,8,2,28
+Yorkshire and the Humber,35,1,18,0,9,5,18
+South East (England),58,1,18,0,7,7,20
+South East (England),39,1,18,0,10,5,30
+West Midlands (England),88,0,32,0,3,8,25
+East of England,48,0,15,0,10,3,23
+Yorkshire and the Humber,87,1,13,0,NA,8,NA
+South West (England),83,0,25,0,6,5,26
+London,43,1,18,0,1,4,17
+Yorkshire and the Humber,85,0,10,0,3,3,14
+London,70,0,10,0,2,10,28
+Scotland,56,1,11,0,NA,5,14
+Northern Ireland,63,0,12,0,6,7,20
+Wales,36,1,17,0,5,NA,23
+Northern Ireland,88,1,8,0,NA,8,NA
+West Midlands (England),26,0,21,0,NA,3,23
+East Midlands (England),68,1,12,0,NA,7,14
+North West (England),64,1,10,0,1,6,20
+East of England,58,1,20,0,10,7,19
+North East (England),25,1,10,0,1,5,3
+Yorkshire and the Humber,68,1,10,0,2,2,4
+East of England,70,0,11,0,9,7,17
+Northern Ireland,67,0,19,0,8,5,24
+East of England,80,0,11,0,5,6,21
+London,61,0,19,0,5,4,27
+East of England,31,1,9,0,4,8,11
+North West (England),68,0,11,0,7,5,15
+South East (England),32,0,13,0,10,5,18
+South East (England),90,0,6,0,1,7,23
+East Midlands (England),56,0,16,0,8,8,8
+South East (England),87,1,16,0,NA,5,24
+West Midlands (England),29,0,16,0,NA,5,18
+South West (England),57,1,11,0,7,NA,NA
+North East (England),37,1,16,0,7,6,24
+North East (England),72,1,10,0,4,2,9
+North West (England),15,1,13,0,3,NA,15
+Scotland,58,1,12,0,2,5,20
+South East (England),64,0,16,0,7,5,18
+South West (England),74,1,10,0,1,5,5
+East of England,61,1,15,0,8,5,24
+North West (England),65,0,12,0,3,5,21
+East Midlands (England),59,1,14,0,5,6,13
+Yorkshire and the Humber,47,0,16,0,10,3,21
+Yorkshire and the Humber,60,1,11,0,3,2,1
+Scotland,58,1,10,0,1,NA,15
+Scotland,45,1,18,0,4,3,23
+East Midlands (England),24,1,13,0,6,5,6
+Scotland,32,1,19,0,9,3,28
+West Midlands (England),59,1,15,0,3,4,24
+Wales,52,1,26,0,7,NA,19
+East of England,65,1,15,0,10,5,21
+West Midlands (England),42,0,15,0,7,4,28
+South East (England),59,1,11,0,10,5,9
+Yorkshire and the Humber,83,1,13,0,1,4,0
+East of England,80,1,12,0,NA,5,22
+London,67,0,10,0,2,5,9
+North West (England),73,1,13,0,3,10,3
+East Midlands (England),84,1,10,0,1,6,18
+East of England,32,0,10,0,10,5,6
+North East (England),63,0,17,0,3,6,2
+South East (England),67,0,10,0,3,0,15
+South West (England),69,0,14,0,10,3,22
+London,38,1,11,0,2,0,6
+Northern Ireland,30,1,12,0,NA,NA,0
+South West (England),49,0,16,0,9,3,26
+East of England,44,1,27,0,6,4,12
+South West (England),46,1,12,0,7,NA,10
+South East (England),17,1,13,0,NA,5,12
+North East (England),26,1,13,0,1,5,16
+Wales,63,0,17,0,7,5,27
+North West (England),56,1,13,0,NA,5,15
+North East (England),49,1,16,0,7,5,5
+North West (England),71,0,12,0,NA,10,14
+Scotland,73,1,10,0,2,3,30
+North East (England),51,1,16,0,4,4,10
+East of England,34,1,12,0,2,5,11
+West Midlands (England),64,1,11,0,6,3,7
+East of England,54,1,17,0,NA,5,7
+West Midlands (England),36,1,20,0,7,2,23
+East of England,69,0,18,0,4,8,10
+North East (England),70,1,12,0,1,5,7
+North West (England),42,1,16,0,10,7,28
+East Midlands (England),34,0,17,0,9,8,13
+South West (England),54,1,15,0,7,5,0
+Scotland,77,0,10,0,1,8,21
+Wales,78,0,17,0,NA,NA,3
+North West (England),50,0,13,0,10,3,17
+Yorkshire and the Humber,20,1,15,0,3,5,22
+Scotland,24,0,17,0,2,5,11
+Scotland,49,1,9,0,1,5,25
+East of England,57,0,14,0,6,7,22
+South West (England),32,0,17,0,8,3,24
+Wales,32,0,19,0,7,3,25
+East of England,36,1,15,0,5,1,3
+East of England,41,1,19,0,3,NA,24
+South East (England),36,0,18,0,8,7,21
+Wales,58,0,NA,0,NA,NA,3
+Wales,57,1,17,0,10,6,18
+South West (England),60,1,12,0,4,7,11
+East of England,42,0,13,0,9,7,10
+West Midlands (England),45,0,13,0,7,10,7
+East Midlands (England),58,1,12,0,NA,NA,3
+East Midlands (England),62,0,17,0,10,6,20
+East Midlands (England),49,0,12,0,5,4,21
+London,36,1,13,0,10,5,17
+East Midlands (England),69,1,16,0,6,NA,22
+East of England,50,1,11,0,1,4,16
+South West (England),52,0,11,0,6,8,11
+Yorkshire and the Humber,62,1,13,0,4,NA,18
+South East (England),45,1,20,0,3,3,23
+Yorkshire and the Humber,85,0,8,0,NA,1,9
+South East (England),67,1,15,0,1,5,13
+South East (England),71,0,18,0,7,7,23
+South East (England),34,0,11,0,7,5,21
+Yorkshire and the Humber,59,0,16,0,2,5,27
+North West (England),39,1,16,0,1,NA,17
+South East (England),90,0,13,0,1,8,5
+North West (England),70,0,17,0,2,4,24
+South East (England),35,1,17,0,9,4,29
+Wales,18,1,15,0,NA,2,15
+South West (England),48,0,13,0,9,5,15
+North West (England),50,0,16,0,NA,3,10
+South East (England),71,0,17,0,10,8,21
+Yorkshire and the Humber,58,1,11,1,1,4,27
+Northern Ireland,61,0,18,0,4,3,18
+Scotland,70,0,24,0,5,3,22
+North East (England),47,0,20,0,NA,5,NA
+North East (England),30,1,13,0,5,5,17
+Scotland,50,1,15,0,5,5,0
+South West (England),55,0,16,0,NA,5,18
+Scotland,73,1,10,0,NA,6,9
+Yorkshire and the Humber,74,0,18,0,3,4,14
+South East (England),43,0,16,0,10,3,30
+West Midlands (England),76,0,14,0,NA,5,16
+West Midlands (England),47,0,11,0,4,6,0
+South West (England),75,1,17,0,8,6,24
+South East (England),59,1,12,0,1,1,20
+Scotland,54,1,11,0,2,5,19
+West Midlands (England),57,1,11,0,3,5,14
+Wales,89,1,10,0,8,5,15
+Wales,69,1,16,0,5,7,26
+Yorkshire and the Humber,47,0,14,0,5,5,15
+East of England,73,1,10,0,2,3,5
+North West (England),58,1,16,0,9,5,23
+North East (England),66,1,14,0,2,5,11
+Scotland,57,0,11,0,1,3,5
+Yorkshire and the Humber,55,1,10,0,1,NA,0
+South West (England),77,1,11,0,1,10,7
+South East (England),50,1,25,0,NA,3,22
+Scotland,81,0,10,0,NA,8,24
+East of England,60,1,12,0,9,5,13
+Yorkshire and the Humber,75,1,11,0,1,NA,NA
+South East (England),31,1,15,0,2,5,15
+East of England,71,0,16,0,7,4,18
+London,66,0,11,0,10,6,6
+North West (England),83,1,13,0,1,5,17
+Yorkshire and the Humber,60,0,15,0,NA,6,14
+South East (England),56,1,12,0,8,5,17
+West Midlands (England),49,0,10,0,2,5,10
+North West (England),38,1,11,0,3,5,9
+Wales,46,0,12,0,6,9,NA
+South East (England),28,1,15,0,8,NA,15
+London,51,0,10,0,1,NA,NA
+Scotland,77,0,11,0,3,5,19
+North West (England),41,0,14,0,3,3,5
+South West (England),52,0,15,0,NA,4,11
+London,90,1,18,0,5,7,19
+South East (England),16,1,12,0,8,NA,22
+South East (England),59,1,12,0,7,6,25
+Scotland,30,0,11,1,1,5,10
+North West (England),19,1,11,1,1,NA,6
+East of England,75,0,16,0,6,3,17
+Yorkshire and the Humber,30,1,18,0,6,2,30
+Yorkshire and the Humber,57,1,11,0,10,6,20
+Northern Ireland,29,0,18,0,10,3,30
+North East (England),41,0,16,0,7,4,21
+South East (England),56,0,11,0,5,5,16
+Wales,89,0,10,0,NA,5,21
+South East (England),44,0,16,0,NA,4,18
+East Midlands (England),25,0,17,0,8,5,25
+South East (England),79,0,19,0,10,5,15
+East of England,52,0,18,0,5,3,27
+Northern Ireland,59,1,17,0,5,5,24
+Yorkshire and the Humber,62,1,18,0,8,7,26
+East of England,17,1,11,0,NA,7,19
+North West (England),54,1,11,0,6,10,12
+West Midlands (England),39,1,13,0,7,5,NA
+Northern Ireland,38,0,13,0,7,5,22
+West Midlands (England),36,1,11,0,8,8,9
+West Midlands (England),54,1,11,0,3,5,7
+North West (England),61,0,14,0,8,5,9
+Yorkshire and the Humber,68,1,12,0,1,5,10
+West Midlands (England),40,1,17,0,10,3,19
+Northern Ireland,45,1,19,0,9,8,18
+North West (England),54,1,12,0,9,NA,23
+North West (England),64,1,10,0,4,8,23
+Scotland,64,1,10,0,1,NA,22
+South West (England),79,0,10,0,4,5,19
+East of England,51,1,13,0,6,5,16
+South East (England),51,1,10,0,5,7,19
+Scotland,17,1,12,0,NA,3,22
+North East (England),74,1,10,0,5,7,8
+London,70,1,17,0,NA,NA,0
+East of England,15,0,11,0,NA,5,16
+Wales,80,1,16,0,2,3,25
+East Midlands (England),33,1,16,0,NA,NA,19
+South East (England),87,0,11,0,5,6,18
+South East (England),45,1,17,0,7,2,26
+South East (England),77,0,10,0,2,4,6
+South East (England),30,1,14,0,3,5,6
+West Midlands (England),85,1,8,0,2,3,4
+South East (England),41,0,18,0,10,7,20
+London,72,1,12,0,NA,6,26
+North West (England),33,0,16,0,2,2,5
+South West (England),69,0,13,0,3,5,11
+Yorkshire and the Humber,28,1,16,0,10,4,5
+East of England,32,0,15,0,4,5,27
+South West (England),54,1,16,0,5,7,22
+North West (England),30,0,11,0,4,NA,7
+West Midlands (England),19,1,10,0,1,5,0
+South West (England),80,0,19,0,1,6,24
+Scotland,56,0,13,0,4,4,11
+Yorkshire and the Humber,81,1,12,0,5,5,15
+Scotland,35,1,15,0,1,5,19
+London,48,1,11,0,NA,NA,20
+North West (England),55,0,12,0,7,5,16
+West Midlands (England),65,0,15,0,10,5,19
+West Midlands (England),26,1,11,0,3,3,25
+West Midlands (England),80,0,10,0,1,5,18
+South East (England),26,1,16,0,5,NA,29
+East of England,59,0,11,0,5,5,13
+Scotland,55,1,21,0,NA,3,26
+East of England,59,0,20,0,2,6,4
+North East (England),31,0,16,0,1,5,25
+North East (England),34,1,17,0,10,5,22
+South East (England),42,0,18,0,10,5,30
+North West (England),54,1,11,0,4,5,7
+West Midlands (England),37,1,13,0,7,6,19
+Yorkshire and the Humber,56,1,20,0,3,3,NA
+South East (England),48,1,16,0,10,7,19
+East of England,56,0,13,0,1,5,NA
+South East (England),50,0,19,0,7,6,23
+Scotland,43,1,13,0,4,5,13
+South West (England),70,1,16,0,NA,5,22
+Scotland,61,1,10,0,4,5,18
+Yorkshire and the Humber,39,1,12,0,2,5,20
+East Midlands (England),74,0,11,0,1,7,12
+Scotland,67,0,13,0,6,6,20
+East Midlands (England),56,1,13,0,5,7,18
+East Midlands (England),24,1,18,0,9,5,23
+South East (England),51,0,12,0,4,3,24
+London,41,0,10,0,9,5,11
+Scotland,71,0,16,0,1,3,27
+North West (England),49,0,12,0,1,0,17
+Yorkshire and the Humber,43,1,14,0,10,10,13
+South East (England),90,1,9,0,1,8,18
+Northern Ireland,26,1,22,0,2,5,21
+East of England,65,0,18,0,3,10,2
+Wales,33,1,11,0,4,NA,NA
+North East (England),87,1,10,0,NA,5,14
+East Midlands (England),56,0,10,0,2,0,28
+South East (England),67,1,12,0,1,5,16
+Scotland,57,0,11,0,4,5,15
+North West (England),61,1,14,0,8,5,14
+East Midlands (England),36,1,15,0,NA,5,15
+Wales,59,1,15,0,NA,6,24
+Scotland,71,1,12,0,NA,7,18
+South East (England),58,1,12,0,NA,7,19
+Scotland,67,0,10,0,NA,5,9
+Yorkshire and the Humber,64,0,25,0,6,3,22
+Scotland,38,1,18,0,10,4,24
+South East (England),52,1,11,0,4,7,14
+South West (England),62,1,22,0,8,4,20
+Scotland,44,0,18,0,1,2,27
+North West (England),33,0,21,0,7,4,23
+East Midlands (England),51,1,16,0,8,NA,18
+Scotland,59,1,19,0,8,4,30
+North West (England),26,0,12,0,1,5,2
+Scotland,71,0,13,0,1,3,17
+South East (England),48,1,20,0,6,7,23
+South East (England),57,0,13,0,8,4,19
+South East (England),63,1,18,0,9,6,21
+South East (England),84,1,10,0,1,10,10
+East Midlands (England),55,1,14,0,2,4,25
+Scotland,70,0,10,0,1,4,12
+South East (England),28,0,13,0,4,NA,15
+West Midlands (England),30,1,15,0,6,5,22
+Northern Ireland,48,1,14,0,6,5,24
+Yorkshire and the Humber,86,1,9,0,2,7,9
+South East (England),74,0,11,0,4,4,20
+Yorkshire and the Humber,78,1,10,0,9,5,15
+Northern Ireland,35,0,17,0,9,2,18
+Yorkshire and the Humber,39,1,12,0,5,NA,12
+South East (England),54,0,14,0,7,5,15
+South West (England),82,0,18,0,6,7,15
+Yorkshire and the Humber,68,0,10,0,9,5,18
+North West (England),57,0,13,0,8,3,27
+South East (England),62,1,16,0,NA,5,19
+Yorkshire and the Humber,68,1,11,0,2,NA,15
+South West (England),63,0,20,0,7,5,14
+Yorkshire and the Humber,65,1,11,0,5,7,18
+West Midlands (England),58,0,11,0,7,5,15
+North West (England),89,0,9,0,2,7,13
+Scotland,38,1,13,0,NA,5,14
+Yorkshire and the Humber,29,1,14,0,5,NA,19
+East of England,82,0,10,0,2,5,14
+East Midlands (England),73,1,10,0,8,5,25
+North West (England),74,1,10,0,4,5,15
+South East (England),42,1,16,0,8,5,24
+West Midlands (England),45,1,22,0,10,5,25
+Scotland,58,1,17,0,4,6,20
+Yorkshire and the Humber,66,1,15,0,3,5,14
+North East (England),38,0,14,0,7,5,27
+East Midlands (England),26,0,16,0,3,4,20
+West Midlands (England),51,0,13,0,4,7,18
+Scotland,53,1,15,0,3,6,6
+Yorkshire and the Humber,42,1,17,0,8,5,13
+North East (England),36,1,12,0,2,5,13
+East of England,62,0,18,0,1,2,23
+Northern Ireland,42,0,16,0,3,4,25
+South East (England),30,0,12,0,5,3,8
+West Midlands (England),82,0,11,0,5,3,14
+South East (England),62,1,11,0,6,5,17
+London,56,1,11,0,6,7,10
+South East (England),68,1,11,0,2,8,16
+East of England,48,1,14,0,10,7,21
+East of England,78,1,10,0,NA,5,20
+West Midlands (England),63,0,23,0,4,5,18
+South East (England),45,0,13,0,7,3,25
+East of England,71,0,14,0,1,0,26
+North East (England),62,0,13,0,7,6,20
+East of England,62,0,16,0,7,7,22
+South West (England),71,0,18,0,4,4,21
+South West (England),37,0,19,0,6,NA,21
+Yorkshire and the Humber,28,0,11,0,NA,NA,15
+East Midlands (England),33,1,13,0,1,5,17
+North West (England),70,1,12,0,5,7,18
+East Midlands (England),71,1,12,0,3,5,16
+South East (England),78,1,13,0,NA,9,19
+South East (England),56,0,16,0,9,6,21
+West Midlands (England),NA,1,18,0,3,6,14
+South West (England),67,1,11,0,7,7,23
+North West (England),49,1,13,0,10,6,15
+East of England,54,1,20,0,9,5,19
+North West (England),65,0,12,0,7,5,22
+South East (England),70,0,18,0,7,3,21
+East of England,21,0,14,0,8,2,29
+East Midlands (England),55,0,17,0,8,0,21
+South East (England),48,0,18,0,10,7,22
+South East (England),68,0,17,0,6,3,30
+North West (England),58,0,13,0,5,8,22
+East of England,42,0,16,0,8,3,29
+North West (England),52,0,10,0,3,NA,9
+Yorkshire and the Humber,71,0,12,0,NA,NA,NA
+Scotland,37,1,17,0,6,7,20
+North East (England),69,1,16,0,1,5,21
+London,49,1,10,0,8,5,21
+North East (England),45,1,17,1,1,5,8
+South East (England),57,0,9,0,5,7,22
+Scotland,69,0,11,0,5,5,19
+South East (England),52,0,16,0,10,7,8
+North West (England),71,0,14,0,8,7,18
+East of England,51,1,12,0,5,5,24
+East of England,59,0,14,0,8,5,11
+North West (England),67,0,10,0,5,5,15
+South West (England),59,1,18,0,8,6,NA
+East of England,67,1,17,0,4,5,22
+Yorkshire and the Humber,53,0,15,0,1,0,24
+Wales,51,0,12,0,2,0,7
+South East (England),55,1,11,0,9,5,12
+South East (England),51,0,17,0,5,NA,8
+East of England,36,0,15,0,8,5,23
+London,58,1,11,0,7,7,20
+North West (England),38,1,16,0,7,NA,19
+Northern Ireland,52,1,15,0,1,NA,NA
+London,77,0,18,0,6,8,15
+North East (England),67,1,14,0,5,7,17
+London,50,0,16,0,10,5,17
+West Midlands (England),58,0,11,1,2,1,11
+Yorkshire and the Humber,60,1,13,0,6,4,24
+North West (England),18,0,12,0,NA,7,15
+West Midlands (England),61,1,16,0,6,5,9
+South West (England),86,1,11,0,5,8,24
+East Midlands (England),84,0,10,0,3,8,13
+Yorkshire and the Humber,23,0,14,0,6,5,17
+South East (England),58,0,13,0,10,6,19
+South East (England),66,1,13,0,1,5,19
+East of England,34,1,12,0,1,5,6
+North East (England),67,1,10,0,1,0,0
+Scotland,28,1,13,0,4,5,16
+Wales,33,0,13,0,6,6,21
+South East (England),57,1,12,0,NA,7,18
+Northern Ireland,30,0,18,0,4,5,16
+North West (England),48,0,15,0,5,5,21
+South West (England),79,1,11,0,1,3,10
+East of England,40,0,16,0,7,5,22
+Yorkshire and the Humber,40,0,26,0,2,NA,17
+East Midlands (England),25,1,17,0,5,5,18
+Scotland,18,0,14,0,1,8,13
+East of England,63,0,10,0,3,5,11
+Yorkshire and the Humber,33,1,9,0,1,5,NA
+Scotland,31,1,12,0,6,5,27
+Scotland,69,1,15,0,4,5,24
+Scotland,81,0,10,0,2,0,15
+Scotland,27,1,15,0,3,6,15
+London,65,1,13,0,1,NA,26
+North West (England),82,0,11,0,5,7,19
+North West (England),41,0,17,0,10,7,17
+South East (England),70,1,12,0,NA,5,15
+Northern Ireland,83,0,12,0,3,7,21
+South East (England),39,0,14,0,3,5,14
+East Midlands (England),52,1,10,0,NA,NA,23
+London,67,1,11,0,7,2,11
+South East (England),42,0,12,0,NA,NA,10
+South East (England),69,1,12,0,4,6,0
+Yorkshire and the Humber,49,0,18,0,NA,5,21
+West Midlands (England),80,0,11,0,NA,5,11
+London,37,0,16,0,10,5,17
+South East (England),58,1,12,0,9,5,7
+Scotland,54,0,26,0,5,3,26
+West Midlands (England),77,1,11,0,2,5,9
+Scotland,28,0,18,0,8,4,21
+North East (England),26,0,14,0,4,5,22
+Scotland,28,0,11,0,2,5,19
+South West (England),47,0,10,0,8,7,22
+South East (England),37,1,19,0,9,5,25
+South East (England),63,0,11,0,NA,5,16
+North West (England),73,1,10,0,2,2,19
+South East (England),61,0,17,0,8,8,13
+North East (England),71,0,18,0,3,6,14
+North East (England),90,0,11,0,5,7,7
+Yorkshire and the Humber,20,0,12,1,NA,5,22
+South East (England),40,0,15,0,7,7,15
+South East (England),61,0,11,1,1,6,11
+South West (England),44,0,15,0,10,4,24
+East of England,36,1,20,0,8,3,20
+Yorkshire and the Humber,46,0,13,0,8,3,20
+Scotland,45,0,13,0,10,5,14
+East Midlands (England),75,0,9,0,8,6,10
+South East (England),83,0,10,0,7,8,22
+North West (England),66,0,16,0,7,NA,16
+East of England,68,1,13,0,4,6,16
+South West (England),66,1,19,0,3,3,20
+Wales,59,0,8,0,10,5,8
+North East (England),75,1,13,0,NA,NA,NA
+West Midlands (England),75,1,10,0,NA,7,14
+North West (England),41,1,11,0,NA,1,15
+South East (England),50,0,10,0,8,3,8
+East of England,52,1,11,0,2,NA,18
+West Midlands (England),77,0,17,0,NA,6,19
+Yorkshire and the Humber,17,1,12,0,NA,2,23
+East Midlands (England),89,1,16,0,2,10,21
+South West (England),19,1,12,0,4,5,17
+Yorkshire and the Humber,41,1,17,0,9,5,21
+South West (England),44,1,16,0,4,NA,15
+North West (England),33,0,13,0,5,5,18
+Yorkshire and the Humber,62,1,16,0,2,4,21
+Scotland,30,1,16,0,9,2,26
+South East (England),83,1,15,0,NA,5,20
+East of England,87,0,12,0,1,7,16
+Scotland,20,0,11,0,9,5,19
+East Midlands (England),45,1,21,0,3,5,27
+Wales,29,0,16,0,5,5,21
+North West (England),41,1,16,0,8,5,21
+Northern Ireland,54,1,12,0,8,0,30
+East Midlands (England),16,1,12,0,7,6,21
+South West (England),55,0,13,0,NA,6,17
+Wales,55,1,24,0,6,8,17
+North East (England),58,1,13,0,1,8,0
+West Midlands (England),66,1,15,0,NA,2,15
+North West (England),32,1,16,0,8,7,6
+Yorkshire and the Humber,36,1,19,0,NA,4,24
+South West (England),36,0,21,0,9,3,14
+Wales,24,1,10,0,2,1,15
+London,47,0,16,0,NA,3,29
+Yorkshire and the Humber,47,0,10,0,2,2,3
+Scotland,77,1,10,0,6,10,24
+North West (England),76,0,10,0,1,5,9
+Wales,80,0,19,0,4,5,14
+South West (England),60,1,11,0,6,5,13
+Yorkshire and the Humber,86,1,15,0,3,7,19
+Northern Ireland,32,1,14,0,3,1,0
+East of England,35,1,15,0,3,5,23
+East Midlands (England),21,0,11,0,2,6,1
+Wales,34,0,12,0,5,5,10
+London,36,1,17,0,9,4,21
+North East (England),74,1,10,0,NA,5,6
+East Midlands (England),63,0,11,0,1,4,11
+Yorkshire and the Humber,76,1,15,0,3,8,22
+Scotland,33,0,11,0,8,NA,15
+North East (England),39,1,13,0,2,5,17
+Northern Ireland,74,1,15,0,4,3,27
+North West (England),62,0,10,0,1,3,20
+Scotland,54,1,12,0,NA,7,2
+East Midlands (England),35,1,14,0,8,NA,21
+Scotland,27,1,14,0,5,5,30
+North West (England),73,0,11,0,4,7,21
+Scotland,51,1,17,0,8,4,24
+South East (England),49,0,13,0,NA,6,21
+Wales,64,1,17,0,2,5,21
+East of England,74,0,14,0,7,5,15
+West Midlands (England),26,0,16,0,8,4,20
+South West (England),57,1,13,0,10,5,16
+East Midlands (England),70,1,10,0,5,7,11
+East of England,86,0,10,0,6,10,14
+East Midlands (England),44,1,20,0,2,7,20
+Wales,61,1,10,0,4,3,1
+South East (England),55,1,17,0,3,6,22
+London,65,1,15,0,9,2,17
+East of England,57,1,13,0,9,5,12
+London,36,0,18,0,9,6,21
+Scotland,46,0,20,0,4,2,28
+North West (England),47,1,13,1,2,5,12
+Northern Ireland,26,1,20,0,3,5,24
+North West (England),NA,1,20,0,2,0,12
+East of England,73,1,10,0,NA,5,7
+East Midlands (England),24,0,12,0,3,5,10
+South East (England),67,0,11,0,1,5,10
+South East (England),20,0,15,0,3,4,16
+Northern Ireland,16,1,12,0,NA,5,0
+Scotland,57,1,11,0,NA,6,13
+South West (England),69,0,13,0,5,2,26
+Yorkshire and the Humber,49,1,18,0,9,6,19
+Yorkshire and the Humber,78,0,17,0,NA,7,16
+East of England,58,0,16,0,9,7,23
+North East (England),38,0,13,0,2,5,9
+North West (England),41,1,9,0,2,0,1
+South East (England),67,1,11,0,4,5,17
+South East (England),43,0,21,0,7,5,21
+North East (England),64,0,13,0,1,4,6
+Yorkshire and the Humber,50,0,11,0,7,7,7
+South West (England),21,0,15,0,10,NA,21
+North East (England),59,1,11,0,2,8,4
+London,52,1,13,1,NA,4,5
+East of England,71,0,10,0,1,5,14
+South East (England),60,1,11,0,6,10,12
+South East (England),65,1,16,0,6,5,23
+South East (England),56,0,18,0,10,3,21
+South East (England),66,1,16,0,7,6,23
+London,51,0,NA,0,7,5,12
+London,57,0,15,0,10,4,26
+Wales,70,1,11,0,6,5,21
+Yorkshire and the Humber,19,1,14,0,3,NA,21
+South West (England),55,0,20,0,10,5,19
+South East (England),29,0,18,0,10,3,26
+Yorkshire and the Humber,80,1,16,0,2,5,16
+North West (England),66,1,16,0,8,5,18
+South West (England),61,0,10,0,6,5,14
+South West (England),59,0,25,0,5,7,30
+South East (England),37,1,18,0,8,6,15
+Scotland,88,1,13,0,NA,8,18
+East Midlands (England),67,0,10,0,5,5,12
+South East (England),68,0,13,0,NA,3,24
+South West (England),48,1,11,0,4,5,21
+London,83,0,7,0,3,7,19
+South East (England),31,0,11,0,8,7,24
+East Midlands (England),37,0,19,0,10,4,25
+South West (England),15,1,11,0,NA,5,28
+North West (England),88,0,11,0,NA,8,24
+East Midlands (England),17,1,13,0,NA,1,21
+Yorkshire and the Humber,69,0,18,0,3,NA,0
+Yorkshire and the Humber,47,1,11,0,5,5,21
+South West (England),32,0,15,0,8,5,17
+Yorkshire and the Humber,58,1,12,0,1,7,11
+East of England,46,0,17,0,2,5,19
+North East (England),63,1,18,0,3,2,0
+South East (England),44,1,19,0,10,6,23
+West Midlands (England),72,1,11,0,NA,4,29
+Scotland,34,1,16,0,9,3,15
+North East (England),60,1,19,0,8,6,24
+North West (England),56,0,12,0,NA,5,3
+South West (England),43,1,18,0,8,2,21
+North West (England),40,0,12,0,1,NA,6
+North East (England),67,0,13,0,3,5,19
+North West (England),76,1,10,0,1,8,10
+Wales,80,1,8,0,1,5,20
+East of England,30,1,20,0,7,4,25
+Wales,37,1,16,0,7,7,14
+West Midlands (England),35,1,11,0,4,5,21
+London,56,0,20,0,10,5,24
+East Midlands (England),28,0,16,0,3,3,25
+Yorkshire and the Humber,56,0,14,0,6,4,22
+South West (England),79,0,13,0,5,7,14
+Yorkshire and the Humber,51,1,11,0,1,5,10
+Northern Ireland,41,1,21,0,7,5,25
+South East (England),48,0,13,0,7,5,13
+North West (England),70,0,8,0,1,7,24
+East Midlands (England),57,1,11,1,1,4,17
+North West (England),68,1,11,0,4,7,14
+Wales,73,1,13,0,NA,5,17
+South West (England),33,1,13,0,2,0,23
+South East (England),47,1,19,0,8,2,22
+Wales,70,0,15,0,10,4,21
+East of England,38,0,13,0,8,3,30
+North East (England),37,1,18,0,10,5,25
+North East (England),63,0,13,0,1,4,17
+East Midlands (England),39,1,11,0,NA,NA,3
+East of England,70,1,11,0,NA,9,1
+South East (England),42,1,18,0,NA,NA,28
+North West (England),27,1,16,0,2,5,13
+Yorkshire and the Humber,65,0,19,0,4,6,24
+North West (England),16,0,14,0,4,6,7
+South East (England),18,1,14,0,NA,NA,12
+London,42,0,20,0,10,5,28
+South East (England),77,0,11,0,2,6,28
+Wales,36,1,12,0,9,NA,21
+East of England,49,1,17,0,3,2,23
+Scotland,61,1,17,0,3,8,11
+Wales,45,1,19,0,2,1,20
+Wales,55,1,15,1,1,5,21
+South East (England),63,0,19,0,NA,6,21
+Wales,64,0,14,0,7,3,18
+South East (England),61,1,20,0,2,4,17
+West Midlands (England),59,1,11,0,7,NA,3
+West Midlands (England),80,0,10,0,NA,5,15
+North West (England),40,0,13,0,3,5,19
+Northern Ireland,36,1,15,0,10,NA,11
+Yorkshire and the Humber,63,1,12,0,1,2,25
+South West (England),47,1,12,0,8,NA,4
+North East (England),66,0,14,0,1,7,23
+West Midlands (England),58,0,11,0,5,6,22
+Scotland,62,0,15,0,NA,7,14
+Wales,78,1,17,0,7,6,17
+East Midlands (England),69,1,10,0,NA,6,9
+West Midlands (England),60,0,16,0,7,7,13
+Yorkshire and the Humber,90,1,9,0,2,2,15
+London,71,1,9,0,2,2,19
+Yorkshire and the Humber,45,0,16,0,7,3,19
+East of England,59,1,11,0,10,5,13
+West Midlands (England),42,1,16,0,4,4,8
+London,54,0,11,0,1,NA,9
+North West (England),46,1,11,0,NA,6,5
+Yorkshire and the Humber,68,1,10,0,5,6,16
+London,62,0,12,0,NA,5,17
+South East (England),51,0,14,0,7,5,23
+Wales,74,1,11,0,3,7,22
+Scotland,55,1,17,0,9,5,14
+London,68,0,15,0,9,3,22
+Yorkshire and the Humber,56,1,19,0,9,6,19
+Scotland,19,0,13,0,NA,7,10
+Yorkshire and the Humber,34,1,18,0,8,5,10
+North West (England),41,1,17,0,3,6,23
+South East (England),72,0,12,0,8,9,17
+North West (England),49,1,13,0,4,5,16
+South West (England),77,0,18,0,6,8,11
+London,71,1,18,0,9,0,28
+Scotland,76,1,11,0,NA,NA,NA
+South West (England),60,1,12,0,5,5,21
+South East (England),69,0,11,0,6,3,24
+North East (England),30,0,12,0,10,7,30
+East Midlands (England),84,1,10,0,2,6,13
+Yorkshire and the Humber,49,1,NA,0,1,4,6
+North West (England),NA,1,20,0,NA,5,13
+Scotland,40,0,16,0,8,5,NA
+East of England,72,0,11,0,7,5,6
+East Midlands (England),64,1,13,0,NA,5,NA
+East Midlands (England),53,0,11,1,NA,NA,3
+Scotland,62,0,17,0,9,5,26
+East Midlands (England),41,1,18,0,9,6,19
+East of England,79,0,13,0,5,7,24
+South East (England),48,0,12,0,4,5,16
+North West (England),35,0,18,0,9,5,26
+Scotland,90,0,11,0,6,6,15
+Scotland,45,1,14,0,2,3,30
+London,27,1,16,0,5,5,17
+Yorkshire and the Humber,70,1,12,0,2,5,12
+Yorkshire and the Humber,66,1,15,0,1,0,21
+South East (England),86,1,9,0,NA,5,NA
+Northern Ireland,36,0,14,1,2,8,9
+Yorkshire and the Humber,57,1,18,0,4,4,23
+South East (England),59,0,11,0,9,3,24
+Northern Ireland,75,0,21,0,8,5,15
+South East (England),36,0,19,0,9,3,28
+West Midlands (England),56,1,15,0,9,8,16
+East of England,23,0,11,1,NA,5,11
+South East (England),62,0,21,0,NA,6,9
+East of England,79,0,10,0,2,7,13
+South East (England),76,1,14,0,5,8,12
+South East (England),70,0,15,0,NA,7,24
+Yorkshire and the Humber,63,0,17,0,7,7,18
+North West (England),61,1,10,0,4,2,23
+Scotland,56,1,13,1,1,5,21
+Scotland,72,1,15,0,4,4,17
+West Midlands (England),60,0,11,0,NA,5,11
+South East (England),28,1,15,0,7,2,25
+South East (England),71,0,10,0,3,5,26
+Yorkshire and the Humber,43,1,16,0,6,3,30
+North West (England),32,0,17,0,10,2,22
+East of England,55,0,NA,0,NA,NA,21
+North West (England),81,0,10,0,2,5,13
+North West (England),44,1,18,0,3,4,12
+Scotland,55,0,10,0,5,2,9
+Yorkshire and the Humber,44,1,17,0,9,4,30
+North East (England),29,1,18,0,3,5,15
+East Midlands (England),39,1,11,0,NA,5,16
+East Midlands (England),18,1,13,0,3,6,23
+North East (England),39,1,13,0,5,5,21
+North East (England),83,1,10,0,2,5,12
+South East (England),36,1,14,0,10,5,14
+Yorkshire and the Humber,66,0,16,0,9,6,21
+East Midlands (England),72,1,11,0,2,9,21
+North East (England),47,0,12,0,3,3,22
+Scotland,66,1,11,0,1,2,23
+East of England,39,0,12,0,8,5,17
+Yorkshire and the Humber,58,0,10,0,NA,NA,15
+East of England,78,0,10,0,4,7,16
+North West (England),90,1,10,0,NA,7,26
+North East (England),36,0,20,0,9,4,10
+North East (England),37,1,16,0,1,5,16
+Wales,75,1,12,0,2,5,19
+Yorkshire and the Humber,36,0,9,0,2,4,20
+South West (England),70,0,16,0,7,2,23
+Wales,63,0,15,0,7,5,7
+London,79,1,16,0,NA,5,19
+Yorkshire and the Humber,65,0,14,0,7,8,16
+London,38,1,27,0,10,5,24
+Scotland,32,0,11,0,2,5,13
+London,54,0,12,0,1,0,3
+North East (England),60,1,20,0,NA,6,12
+North West (England),32,1,17,0,9,1,26
+South West (England),65,1,13,0,NA,8,12
+Northern Ireland,51,1,14,0,7,5,11
+London,56,0,18,0,5,3,27
+East Midlands (England),56,0,13,0,5,5,22
+Wales,69,0,16,0,3,5,17
+North West (England),56,1,16,0,3,0,13
+East Midlands (England),36,0,16,0,9,5,19
+East Midlands (England),30,1,13,0,9,3,14
+North West (England),35,1,15,0,10,NA,16
+East of England,38,0,12,0,NA,5,21
+London,34,0,22,0,8,3,26
+West Midlands (England),38,0,16,0,8,4,9
+East of England,83,1,9,0,NA,3,13
+Wales,31,0,12,0,2,3,8
+Northern Ireland,43,1,14,0,7,5,6
+North West (England),85,0,15,0,1,5,2
+North West (England),41,0,11,0,3,3,17
+East of England,58,0,11,0,10,5,12
+South East (England),49,0,11,0,10,5,20
+East of England,60,1,12,0,2,5,15
+Wales,87,1,11,0,NA,3,13
+East Midlands (England),51,0,11,0,10,7,17
+South West (England),66,0,11,0,3,5,12
+North East (England),21,1,12,0,3,5,16
+South West (England),42,0,NA,0,8,3,25
+West Midlands (England),32,1,11,0,NA,5,19
+South East (England),75,0,11,0,1,9,13
+South West (England),33,0,15,0,5,3,23
+East Midlands (England),47,1,20,0,5,2,NA
+North West (England),68,0,13,0,2,NA,7
+South East (England),66,1,23,0,NA,2,21
+West Midlands (England),56,0,11,0,2,5,10
+Yorkshire and the Humber,65,0,21,0,10,2,29
+Yorkshire and the Humber,49,1,10,0,2,3,3
+East Midlands (England),19,1,11,0,NA,NA,13
+East of England,52,1,25,0,5,3,21
+North West (England),79,0,9,0,4,2,17
+South West (England),60,1,13,0,1,2,23
+South West (England),60,1,14,0,NA,5,18
+Wales,38,1,13,0,10,2,23
+Yorkshire and the Humber,38,1,13,0,10,2,17
+Yorkshire and the Humber,67,1,17,0,NA,5,30
+South East (England),38,0,9,0,3,8,18
+South East (England),45,1,23,0,10,6,25
+South West (England),76,0,17,0,6,7,23
+Wales,56,1,20,0,6,5,13
+Yorkshire and the Humber,52,0,14,0,6,4,16
+North East (England),18,1,14,0,2,6,15
+Wales,75,0,10,0,NA,6,18
+East Midlands (England),56,0,14,0,5,5,7
+East Midlands (England),63,0,18,0,9,6,12
+East Midlands (England),80,1,18,0,NA,4,18
+South East (England),89,0,9,0,NA,5,11
+Northern Ireland,66,0,16,0,2,5,11
+Yorkshire and the Humber,75,1,19,0,4,5,15
+East of England,47,1,18,0,7,3,20
+North East (England),31,1,13,0,9,4,13
+West Midlands (England),56,1,11,0,2,5,10
+South East (England),63,0,14,0,1,NA,0
+South East (England),76,0,17,0,10,8,19
+North East (England),82,0,10,0,1,5,15
+South West (England),71,0,13,0,6,5,20
+East of England,57,0,11,0,6,7,11
+South East (England),58,0,11,0,10,5,20
+North West (England),74,1,11,0,2,NA,9
+Yorkshire and the Humber,76,0,13,0,8,6,14
+North East (England),33,0,18,0,4,5,10
+Scotland,73,1,20,0,3,5,18
+North East (England),74,0,13,0,3,5,16
+London,NA,1,14,0,NA,5,11
+South East (England),53,0,11,0,NA,5,15
+North East (England),43,1,13,0,7,5,20
+Wales,64,1,10,0,2,5,18
+East of England,40,1,17,0,6,2,27
+South East (England),70,1,20,0,9,6,18
+East of England,66,0,15,0,NA,5,NA
+South East (England),56,0,15,0,NA,9,20
+Scotland,63,0,10,0,8,2,24
+North West (England),65,0,17,0,5,7,23
+West Midlands (England),34,1,17,0,6,5,17
+West Midlands (England),72,0,16,0,4,8,15
+Yorkshire and the Humber,33,1,20,0,NA,6,26
+South East (England),76,0,10,0,1,5,7
+North West (England),74,1,10,0,1,5,0
+Scotland,18,1,13,0,NA,5,24
+East Midlands (England),63,1,10,0,4,NA,NA
+South East (England),78,1,16,0,3,6,19
+North West (England),73,1,10,0,2,7,14
+North West (England),23,0,16,0,5,5,10
+Scotland,85,1,10,0,NA,5,12
+East Midlands (England),64,0,18,0,10,4,20
+South East (England),75,0,10,0,5,5,10
+Yorkshire and the Humber,32,1,13,0,3,5,NA
+West Midlands (England),78,1,10,0,NA,NA,NA
+Northern Ireland,39,1,14,0,4,5,11
+West Midlands (England),40,1,15,0,7,3,16
+East of England,22,1,16,0,6,3,17
+East of England,49,1,16,0,6,NA,18
+West Midlands (England),42,1,12,0,3,4,11
+East of England,54,1,11,0,NA,NA,12
+Wales,62,0,16,0,10,6,7
+South East (England),26,1,13,0,2,10,16
+East of England,43,1,13,0,NA,NA,15
+South East (England),75,1,11,0,2,5,3
+South West (England),38,0,9,0,1,5,10
+Yorkshire and the Humber,17,1,12,0,8,10,17
+North East (England),37,1,12,0,NA,5,14
+South West (England),72,0,11,0,10,5,15
+North West (England),76,0,13,0,1,4,10
+South East (England),34,1,12,0,2,6,14
+North East (England),17,0,9,0,NA,NA,16
+Wales,68,1,10,0,2,5,5
+West Midlands (England),66,0,17,0,3,3,15
+North West (England),64,1,11,0,6,NA,14
+East Midlands (England),90,1,8,0,2,1,13
+Yorkshire and the Humber,30,1,15,0,2,5,21
+South East (England),76,0,10,0,NA,NA,23
+South West (England),17,1,12,0,NA,NA,18
+Yorkshire and the Humber,69,1,11,0,NA,7,11
+East Midlands (England),57,0,16,0,10,5,20
+Wales,55,1,22,0,8,5,22
+Northern Ireland,55,1,17,0,4,NA,24
+Scotland,75,1,11,0,2,NA,18
+East Midlands (England),55,0,11,0,7,7,18
+North East (England),23,1,9,0,2,NA,9
+London,48,1,10,0,2,NA,10
+Scotland,43,1,16,0,1,4,17
+North West (England),46,1,17,0,9,5,10
+East of England,46,1,12,0,10,6,12
+South West (England),76,0,17,0,4,5,12
+Scotland,74,1,16,0,3,4,25
+South East (England),31,0,12,0,7,4,19
+East of England,34,0,12,0,10,5,20
+North East (England),37,1,14,0,7,7,12
+East of England,31,0,11,0,3,5,13
+Scotland,46,1,18,0,10,1,27
+North West (England),48,1,13,0,3,4,3
+Scotland,60,1,18,0,4,3,22
+North West (England),27,1,15,0,1,NA,NA
+Yorkshire and the Humber,90,0,9,0,3,1,5
+South East (England),17,0,12,0,3,7,19
+East Midlands (England),77,1,10,0,NA,NA,1
+Yorkshire and the Humber,65,0,16,0,4,4,1
+Scotland,52,1,20,1,2,9,20
+East of England,66,1,10,0,2,5,10
+East of England,31,0,16,0,6,5,21
+West Midlands (England),22,1,13,0,NA,7,4
+South East (England),70,0,12,0,1,7,22
+West Midlands (England),34,0,14,0,8,4,20
+North West (England),33,1,11,0,NA,5,17
+South East (England),56,1,13,0,1,3,23
+East of England,77,0,12,0,5,8,16
+London,63,1,21,0,5,4,26
+Wales,72,0,18,0,5,8,10
+North West (England),85,0,11,0,NA,5,21
+London,65,0,12,0,3,8,17
+East Midlands (England),85,0,14,0,7,7,21
+West Midlands (England),58,0,11,0,9,NA,18
+North East (England),76,0,10,0,3,4,20
+North West (England),75,0,10,0,2,8,13
+Yorkshire and the Humber,63,1,11,0,NA,5,12
+Yorkshire and the Humber,53,1,11,0,8,4,4
+Yorkshire and the Humber,69,0,19,0,5,4,25
+Scotland,34,1,19,0,10,2,25
+Wales,54,1,15,0,7,4,22
+Scotland,41,0,11,0,NA,NA,NA
+Scotland,26,0,21,0,4,6,23
+Northern Ireland,63,1,11,0,2,NA,25
+East of England,75,0,21,0,10,7,10
+London,21,0,15,0,8,5,8
+South West (England),33,1,11,0,2,NA,NA
+Yorkshire and the Humber,53,1,11,0,7,5,2
+Yorkshire and the Humber,35,1,12,0,10,7,12
+Scotland,72,0,10,0,4,5,20
+Yorkshire and the Humber,85,1,15,0,4,5,20
+North West (England),39,1,12,0,3,NA,0
+Scotland,78,0,15,0,2,7,11
+North West (England),40,1,17,0,5,NA,30
+East Midlands (England),21,0,15,0,7,7,14
+Scotland,72,0,12,0,8,1,18
+Yorkshire and the Humber,68,1,11,0,2,5,10
+West Midlands (England),73,1,13,0,5,5,27
+Scotland,40,0,18,0,6,4,27
+London,49,0,16,0,10,7,20
+South East (England),NA,0,10,0,NA,NA,9
+London,30,0,17,0,7,4,27
+East of England,80,1,11,0,4,7,22
+London,71,1,16,0,10,6,25
+South East (England),71,1,11,0,NA,5,12
+Scotland,35,1,16,0,10,4,25
+North East (England),50,1,13,0,3,NA,12
+London,30,0,12,0,6,6,19
+Scotland,54,0,16,0,9,1,10
+South West (England),30,1,21,0,6,2,23
+Yorkshire and the Humber,49,1,14,0,NA,5,18
+South West (England),46,1,11,0,1,2,22
+East Midlands (England),18,0,13,0,NA,NA,30
+South West (England),48,1,14,0,8,3,23
+West Midlands (England),50,1,11,0,2,5,6
+South East (England),37,1,12,0,10,5,24
+South West (England),40,0,16,0,10,6,23
+London,88,1,12,0,1,5,20
+South East (England),56,1,11,0,1,0,17
+South East (England),40,1,19,0,9,2,30
+North West (England),29,1,16,0,4,NA,16
+East of England,48,0,17,0,6,3,16
+South East (England),51,0,11,0,NA,7,17
+Wales,20,0,12,0,NA,NA,15
+North West (England),19,0,15,0,4,5,19
+Northern Ireland,61,1,11,0,7,5,9
+North East (England),24,0,15,0,NA,5,15
+North East (England),33,1,13,0,3,0,8
+Yorkshire and the Humber,67,1,10,0,3,5,6
+South West (England),33,1,15,0,3,NA,14
+North East (England),84,0,17,0,3,2,26
+East Midlands (England),71,1,11,0,2,5,NA
+North West (England),80,1,13,0,NA,5,26
+South West (England),38,1,17,0,3,5,9
+Yorkshire and the Humber,57,0,11,0,10,7,13
+Yorkshire and the Humber,66,1,19,0,7,5,22
+North West (England),64,1,10,0,5,5,22
+North West (England),36,1,14,0,7,5,0
+Yorkshire and the Humber,59,1,13,0,10,6,22
+East Midlands (England),51,0,15,0,NA,3,30
+Yorkshire and the Humber,62,1,16,0,3,5,NA
+East Midlands (England),73,0,9,0,4,NA,22
+East of England,44,1,21,0,7,3,28
+South East (England),36,1,18,0,8,5,18
+East Midlands (England),78,1,10,0,NA,NA,NA
+North West (England),69,1,20,0,7,3,30
+Scotland,45,0,19,0,8,3,26
+South West (England),72,0,13,0,3,6,20
+West Midlands (England),49,0,17,0,5,2,24
+North West (England),33,1,10,0,3,8,14
+North West (England),24,0,15,0,10,0,25
+South West (England),22,0,14,0,1,3,23
+East of England,46,0,15,0,7,7,22
+North West (England),26,1,16,0,NA,NA,13
+Wales,58,0,18,0,6,5,14
+South West (England),80,1,18,0,1,5,9
+North West (England),71,0,22,0,2,6,15
+Scotland,71,1,19,0,3,7,23
+South West (England),35,1,19,0,6,2,21
+South East (England),64,0,13,0,8,3,30
+London,76,1,10,0,1,4,16
+South East (England),22,1,9,0,4,NA,3
+East of England,35,1,11,0,2,3,NA
+East of England,60,0,12,0,8,5,19
+West Midlands (England),57,0,12,0,10,5,6
+North West (England),89,0,10,0,4,5,21
+Yorkshire and the Humber,85,0,10,0,7,6,21
+South West (England),30,1,11,0,5,5,22
+Scotland,51,1,11,0,6,5,12
+North West (England),40,1,11,0,4,5,27
+East of England,44,1,20,0,9,1,30
+East of England,36,0,15,0,7,5,20
+Northern Ireland,43,1,15,0,1,NA,27
+East Midlands (England),39,1,17,0,10,7,12
+Wales,55,0,20,0,NA,6,23
+South East (England),36,1,18,0,10,5,22
+South West (England),85,1,22,0,6,5,26
+East of England,NA,1,20,0,NA,3,24
+Scotland,61,0,20,0,8,5,2
+London,59,0,41,0,1,7,7
+West Midlands (England),53,0,16,0,4,5,13
+West Midlands (England),77,0,7,0,1,6,14
+East of England,55,1,20,0,10,6,17
+South East (England),58,0,17,0,6,3,25
+North West (England),48,0,15,0,10,4,17
+East Midlands (England),41,0,15,0,NA,6,12
+South West (England),74,1,11,0,NA,7,13
+South West (England),24,0,17,1,7,2,28
+North West (England),67,1,10,0,2,6,0
+Scotland,18,0,13,0,NA,NA,28
+East of England,84,1,10,0,1,8,15
+Northern Ireland,56,1,14,0,3,6,22
+South East (England),56,1,12,1,8,7,16
+East of England,56,1,12,0,10,5,20
+East Midlands (England),49,0,11,0,8,3,19
+West Midlands (England),65,1,12,0,1,NA,13
+Scotland,54,1,20,0,8,2,30
+Scotland,33,1,19,0,4,5,30
+Wales,67,1,10,0,1,1,10
+West Midlands (England),38,1,17,0,6,5,24
+South West (England),56,1,12,0,10,NA,15
+Yorkshire and the Humber,59,0,14,0,3,5,12
+South East (England),45,1,19,0,10,1,24
+North West (England),61,1,11,0,1,0,9
+Yorkshire and the Humber,54,0,14,0,8,NA,13
+East Midlands (England),69,1,17,0,7,3,20
+South West (England),42,0,15,0,NA,10,1
+West Midlands (England),37,1,11,0,5,5,16
+East Midlands (England),47,1,12,0,10,7,15
+Scotland,62,0,18,0,1,4,24
+South East (England),71,0,8,0,NA,NA,0
+North West (England),21,0,14,1,1,1,22
+Yorkshire and the Humber,64,0,12,0,1,3,14
+Scotland,77,1,16,0,1,8,15
+South West (England),82,0,10,0,2,10,NA
+West Midlands (England),76,0,9,0,1,2,4
+South East (England),78,0,10,0,3,7,17
+South East (England),35,1,14,0,2,0,13
+Scotland,19,1,13,0,NA,NA,8
+North West (England),41,0,12,0,1,2,19
+East Midlands (England),53,1,12,0,6,6,21
+North West (England),36,0,11,0,10,3,19
+Scotland,56,1,18,0,9,1,30
+South East (England),50,0,25,0,NA,7,19
+East Midlands (England),47,0,19,0,NA,7,15
+Yorkshire and the Humber,42,0,17,0,6,2,27
+Yorkshire and the Humber,38,0,13,0,1,4,21
+Yorkshire and the Humber,31,1,10,1,3,7,7
+West Midlands (England),53,0,27,0,2,6,24
+North West (England),36,0,17,0,8,2,26
+East Midlands (England),36,0,12,0,6,4,7
+East of England,35,1,16,0,3,5,17
+East of England,17,1,11,0,NA,3,22
+Wales,64,0,19,0,4,5,14
+East Midlands (England),71,1,10,0,4,7,28
+South East (England),15,1,11,0,NA,7,NA
+North West (England),16,0,12,0,NA,5,14
+Northern Ireland,23,1,14,0,2,5,22
+Scotland,63,1,11,0,3,5,20
+North West (England),33,1,12,0,3,5,15
+London,61,1,15,0,1,4,21
+Wales,29,1,17,0,5,NA,12
+South East (England),69,1,12,0,4,6,18
+Scotland,69,0,10,0,8,5,7
+South East (England),62,1,11,0,NA,5,25
+Wales,73,1,20,0,6,3,28
+South East (England),33,1,16,0,7,5,17
+South East (England),26,0,14,0,1,4,11
+South East (England),72,0,17,0,5,5,14
+Scotland,69,1,15,0,2,6,23
+South West (England),56,0,14,0,9,7,NA
+Yorkshire and the Humber,81,1,12,0,6,5,9
+South West (England),56,0,24,0,NA,4,30
+South East (England),69,1,17,0,7,5,17
+West Midlands (England),55,1,19,0,7,5,11
+North West (England),85,1,18,0,3,7,14
+East Midlands (England),70,1,11,0,3,NA,10
+Yorkshire and the Humber,82,1,10,0,2,5,9
+North East (England),62,0,16,0,6,4,14
+South East (England),36,0,17,0,10,7,19
+South West (England),42,0,13,0,9,4,24
+West Midlands (England),35,1,19,0,NA,4,29
+East of England,49,0,11,0,5,3,25
+Scotland,58,0,15,0,3,3,27
+East of England,48,1,14,0,10,5,24
+Yorkshire and the Humber,24,0,15,0,5,3,21
+Yorkshire and the Humber,26,0,14,0,8,2,12
+East Midlands (England),58,0,12,0,3,5,0
+South East (England),57,1,21,0,7,5,16
+Scotland,72,0,20,0,7,4,25
+East Midlands (England),24,0,12,0,5,5,13
+South West (England),18,1,11,0,NA,7,4
+East of England,28,1,13,0,2,NA,9
+Northern Ireland,32,0,15,0,4,8,25
+South West (England),78,1,16,0,2,5,16
+North East (England),34,0,17,0,3,6,17
+Yorkshire and the Humber,23,0,15,0,7,3,26
+Northern Ireland,51,1,11,0,2,5,15
+North West (England),54,0,11,0,1,4,24
+Yorkshire and the Humber,29,1,13,0,6,5,22
+North West (England),51,1,19,0,6,NA,18
+Wales,31,0,14,0,1,5,8
+Northern Ireland,60,1,17,0,10,5,28
+South West (England),81,1,11,0,4,5,20
+East Midlands (England),61,0,10,0,6,5,12
+North West (England),46,1,11,0,9,5,20
+North West (England),79,0,NA,0,NA,4,20
+East of England,26,1,17,0,1,1,18
+South West (England),64,0,18,0,6,2,22
+South West (England),37,0,16,0,7,7,16
+East of England,44,1,20,0,7,4,26
+East Midlands (England),69,0,15,0,3,6,15
+South West (England),41,1,11,0,4,5,18
+Northern Ireland,18,1,13,0,NA,0,1
+South East (England),85,0,10,0,4,0,30
+West Midlands (England),63,0,21,0,10,5,24
+East of England,51,1,12,0,6,7,17
+East of England,33,1,13,0,2,NA,15
+Northern Ireland,33,0,21,0,6,4,25
+North West (England),67,1,11,0,1,NA,15
+Scotland,32,1,17,0,9,5,19
+Scotland,35,0,14,0,7,0,5
+South West (England),53,0,16,0,10,7,12
+East Midlands (England),33,0,11,0,8,5,16
+East Midlands (England),61,0,18,0,9,3,19
+Wales,57,1,19,0,7,5,18
+West Midlands (England),20,0,14,0,2,6,17
+East of England,87,1,14,0,3,5,18
+North West (England),70,1,10,0,3,9,10
+Scotland,59,1,12,0,1,7,23
+London,46,0,17,0,5,4,19
+South West (England),71,1,10,0,6,NA,26
+South East (England),89,0,9,0,2,10,15
+Scotland,49,1,14,0,4,3,18
+East Midlands (England),33,1,18,0,7,2,25
+North West (England),63,1,10,0,2,5,17
+London,42,0,16,0,8,3,24
+North East (England),52,0,11,0,2,2,15
+South East (England),36,0,13,0,3,5,23
+London,43,1,16,0,8,0,24
+East Midlands (England),32,1,17,0,6,3,21
+West Midlands (England),77,1,10,0,NA,6,NA
+South West (England),31,0,10,0,3,5,21
+London,46,1,18,0,8,2,30
+Yorkshire and the Humber,72,0,8,0,1,7,19
+South East (England),70,1,14,0,8,5,19
+Scotland,83,0,13,0,5,4,20
+South East (England),58,0,11,0,1,7,14
+North West (England),18,1,13,0,NA,4,25
+West Midlands (England),22,1,11,0,2,5,6
+West Midlands (England),35,1,12,0,4,NA,13
+East of England,55,0,18,0,10,6,24
+South West (England),73,0,12,0,5,2,23
+West Midlands (England),79,1,30,0,1,8,21
+East of England,36,0,11,0,6,4,15
+North West (England),74,1,10,0,4,4,18
+Scotland,53,1,11,0,7,0,24
+South East (England),51,1,17,0,8,4,16
+Yorkshire and the Humber,70,0,9,0,1,3,14
+North West (England),61,1,17,0,6,1,29
+South East (England),26,0,17,0,7,0,28
+North West (England),47,0,13,0,8,2,28
+North West (England),51,0,16,0,5,3,25
+East of England,66,0,17,0,10,5,24
+Wales,64,1,15,0,9,5,18
+East of England,42,1,13,0,8,2,22
+Scotland,50,0,15,0,10,5,30
+South East (England),41,0,18,0,4,1,26
+South West (England),57,0,20,0,10,5,24
+Yorkshire and the Humber,46,1,12,0,7,5,17
+North West (England),16,1,12,0,NA,5,13
+North West (England),62,1,15,0,3,6,18
+Yorkshire and the Humber,73,1,10,0,2,7,20
+East of England,54,0,16,0,8,4,25
+North West (England),41,1,11,0,2,5,10
+South East (England),90,1,10,0,NA,NA,0
+East of England,79,1,10,0,9,6,14
+East of England,49,1,13,0,3,5,14
+West Midlands (England),46,1,13,0,7,5,17
+London,27,1,14,0,3,8,15
+Northern Ireland,50,1,19,0,8,8,15
+London,57,0,15,0,NA,2,23
+Wales,40,1,14,0,5,5,14
+South East (England),51,0,10,0,8,5,27
+West Midlands (England),50,1,15,0,6,4,12
+Yorkshire and the Humber,53,0,12,0,2,8,11
+Scotland,36,1,16,0,7,3,15
+Northern Ireland,26,0,12,0,NA,5,15
+North West (England),23,0,18,0,3,5,9
+South East (England),69,1,16,0,5,5,30
+South East (England),49,1,18,0,4,5,16
+North West (England),30,1,16,0,9,5,18
+South West (England),79,1,12,0,1,7,21
+East Midlands (England),35,0,14,0,7,5,18
+Wales,67,0,11,0,7,6,26
+North West (England),53,0,12,0,5,NA,0
+West Midlands (England),77,0,10,0,5,3,6
+South West (England),45,0,11,0,1,5,30
+Northern Ireland,42,0,12,0,6,5,19
+East of England,35,0,18,0,10,3,27
+North West (England),49,0,16,0,3,7,15
+East of England,64,1,16,0,NA,3,21
+North West (England),61,0,12,0,NA,0,20
+North West (England),42,0,19,0,8,4,25
+Wales,87,1,8,0,NA,5,4
+South West (England),75,1,14,0,3,5,NA
+London,83,0,15,0,2,5,25
+Wales,32,0,21,0,5,2,27
+London,61,0,20,0,5,5,15
+South East (England),52,0,15,0,8,5,4
+South West (England),39,1,12,0,1,5,21
+Yorkshire and the Humber,70,1,12,0,1,10,9
+Yorkshire and the Humber,72,1,18,0,8,4,17
+North West (England),60,1,10,0,2,5,15
+North East (England),28,1,12,1,1,0,0
+North West (England),54,1,12,0,NA,6,10
+Yorkshire and the Humber,64,1,13,1,1,2,15
+East of England,56,0,14,0,2,5,21
+South West (England),24,1,19,0,2,3,29
+East of England,39,1,11,0,3,2,18
+South East (England),48,0,3,0,3,0,NA
+Scotland,35,1,21,0,9,4,22
+Northern Ireland,64,1,16,0,4,5,18
+Scotland,55,1,17,0,2,5,21
+North West (England),62,1,17,0,1,7,23
+South West (England),77,1,10,0,5,5,15
+East of England,15,0,11,0,2,7,20
+South East (England),73,1,16,0,8,5,22
+South West (England),34,0,19,0,8,4,30
+South East (England),64,1,14,0,1,5,15
+East of England,31,1,17,0,4,3,24
+London,51,1,20,0,10,4,23
+South East (England),78,0,11,0,2,7,11
+East Midlands (England),41,0,13,0,10,6,24
+London,34,0,18,0,10,7,28
+North East (England),38,0,16,0,6,5,17
+Yorkshire and the Humber,56,0,16,0,6,6,28
+North West (England),83,0,11,0,2,5,16
+South West (England),89,1,13,0,1,5,23
+North East (England),31,1,11,0,1,5,17
+Wales,67,0,20,0,NA,8,7
+West Midlands (England),63,1,11,0,NA,8,11
+South East (England),56,0,18,0,2,2,9
+London,48,1,15,0,1,4,17
+East of England,66,1,12,0,3,8,23
+East Midlands (England),68,1,17,0,10,4,21
+East Midlands (England),58,1,12,0,7,5,6
+South East (England),68,1,13,0,2,4,17
+South West (England),73,1,10,0,NA,8,12
+East Midlands (England),21,0,10,0,NA,NA,0
+Scotland,51,1,14,0,8,3,27
+South West (England),69,1,11,0,3,NA,15
+South West (England),54,1,17,0,9,5,28
+West Midlands (England),72,0,8,0,3,7,13
+East of England,54,1,13,0,NA,5,0
+North West (England),75,0,14,0,NA,9,5
+Yorkshire and the Humber,60,1,15,0,2,2,24
+London,62,1,14,0,3,5,12
+East of England,39,1,17,0,6,3,28
+North West (England),50,0,15,0,7,8,17
+West Midlands (England),63,1,10,0,1,NA,NA
+West Midlands (England),77,1,15,0,1,8,19
+South East (England),70,0,16,0,9,7,13
+North East (England),50,0,10,0,NA,8,19
+Yorkshire and the Humber,73,1,10,0,3,NA,13
+Northern Ireland,46,0,19,0,10,3,24
+Northern Ireland,60,1,12,0,4,5,21
+West Midlands (England),26,1,11,1,1,0,27
+East Midlands (England),35,0,13,0,8,8,15
+Scotland,59,0,13,0,7,5,6
+Yorkshire and the Humber,69,1,29,0,2,5,11
+Wales,75,0,16,0,10,6,15
+Yorkshire and the Humber,55,0,11,0,4,5,19
+Scotland,75,1,NA,0,NA,0,14
+London,84,0,NA,0,NA,5,21
+East of England,88,1,8,0,1,8,28
+North West (England),36,0,11,1,1,3,0
+East Midlands (England),65,1,10,0,NA,NA,NA
+South East (England),28,0,18,0,7,2,23
+Wales,76,0,11,0,2,8,13
+Scotland,77,1,10,0,1,5,17
+East Midlands (England),56,0,13,0,2,2,3
+North West (England),51,0,12,0,8,7,21
+West Midlands (England),50,1,11,0,7,5,3
+London,50,0,16,0,10,7,19
+Yorkshire and the Humber,47,0,11,0,10,5,9
+South East (England),72,0,12,0,7,7,19
+South East (England),71,0,11,0,8,5,28
+South East (England),55,1,17,0,1,5,NA
+London,36,0,11,0,5,0,15
+Yorkshire and the Humber,24,0,16,0,8,5,21
+Scotland,78,0,10,0,NA,3,18
+East of England,26,0,12,0,NA,5,15
+East Midlands (England),57,1,16,0,10,5,9
+North West (England),30,1,16,0,3,NA,8
+Wales,68,1,20,0,2,3,22
+South East (England),67,1,10,0,NA,4,8
+West Midlands (England),41,1,16,0,8,3,18
+Northern Ireland,53,0,12,0,1,5,23
+Wales,49,0,15,1,3,5,13
+South East (England),81,0,18,0,3,4,19
+London,66,0,12,0,8,NA,4
+South East (England),41,0,17,0,7,3,22
+South West (England),71,0,19,0,4,2,26
+North West (England),74,1,11,0,8,7,12
+South West (England),36,1,17,0,5,5,19
+South East (England),83,1,18,0,3,6,16
+West Midlands (England),35,0,18,0,NA,5,21
+North East (England),65,1,20,0,7,5,NA
+Scotland,33,0,13,0,9,3,14
+Wales,70,0,12,0,NA,3,7
+South East (England),58,1,16,0,10,4,27
+East of England,54,0,10,0,6,4,15
+Wales,57,0,16,0,NA,5,13
+South West (England),54,1,13,0,6,8,11
+East of England,82,1,11,0,5,6,1
+North West (England),16,0,10,0,5,8,10
+London,53,0,10,0,9,5,3
+North West (England),72,1,10,0,NA,7,13
+London,58,0,11,0,7,4,17
+South East (England),24,1,17,0,5,4,26
+South East (England),41,1,24,0,2,6,1
+West Midlands (England),40,1,11,0,2,5,16
+East of England,85,1,11,0,3,8,15
+East of England,84,1,7,0,1,NA,17
+Scotland,49,1,11,0,1,NA,13
+Wales,38,1,20,0,6,5,20
+North West (England),78,1,10,0,NA,NA,12
+East of England,69,0,11,0,10,4,18
+South East (England),37,1,16,0,9,5,15
+North East (England),35,1,16,0,10,5,20
+North West (England),34,1,14,0,2,1,16
+South West (England),55,1,13,0,10,7,25
+East Midlands (England),54,1,11,0,5,1,1
+North West (England),39,0,13,0,5,6,16
+North East (England),22,1,12,0,3,10,10
+North West (England),27,1,14,0,8,8,14
+East of England,61,0,17,0,7,5,30
+West Midlands (England),66,1,12,0,10,5,13
+Wales,77,1,16,0,6,10,NA
+North East (England),43,0,14,0,7,4,20
+Scotland,27,1,11,0,5,4,16
+South West (England),58,0,13,0,1,5,9
+West Midlands (England),77,0,19,0,NA,5,0
+North West (England),62,1,18,0,1,3,26
+South East (England),80,0,11,0,3,5,0
+South West (England),25,0,16,0,4,4,30
+London,59,0,16,0,4,7,13
+East Midlands (England),79,1,9,0,NA,5,6
+East of England,71,1,13,0,NA,5,9
+North East (England),21,0,21,0,8,3,21
+South East (England),69,1,10,0,2,5,13
+North West (England),73,0,10,0,NA,5,13
+North East (England),47,1,17,0,2,5,6
+Yorkshire and the Humber,78,1,10,0,1,3,13
+North West (England),70,1,10,0,10,5,15
+East Midlands (England),73,0,20,0,5,4,15
+North West (England),71,1,12,0,2,5,22
+East of England,28,1,11,0,3,5,15
+East Midlands (England),32,0,18,0,4,5,27
+North West (England),74,0,12,0,6,8,22
+Yorkshire and the Humber,76,0,12,0,NA,8,23
+North East (England),81,1,17,0,4,NA,6
+North West (England),83,1,16,0,NA,5,11
+Scotland,60,1,10,0,2,NA,11
+North East (England),49,1,13,1,2,0,9
+South East (England),49,0,12,0,6,5,8
+West Midlands (England),55,0,14,0,9,8,8
+East of England,90,1,10,0,NA,6,24
+Yorkshire and the Humber,47,1,11,0,2,7,14
+Scotland,50,1,13,0,1,4,8
+South West (England),76,1,17,0,4,7,24
+East Midlands (England),80,0,11,0,5,5,12
+South East (England),71,0,12,0,7,9,7
+North West (England),80,1,10,0,5,6,13
+South West (England),60,1,12,0,8,3,25
+South East (England),41,1,16,0,6,5,13
+North West (England),64,1,10,0,1,5,12
+East of England,51,1,14,0,NA,5,15
+Yorkshire and the Humber,55,1,13,0,7,7,14
+West Midlands (England),52,1,15,0,1,5,12
+Yorkshire and the Humber,73,0,15,0,NA,8,20
+North West (England),72,0,16,0,4,8,9
+Scotland,33,0,17,0,6,6,22
+Yorkshire and the Humber,43,0,14,0,2,3,21
+London,NA,1,18,0,8,7,24
+Scotland,27,0,15,0,4,5,24
+London,73,0,10,0,6,10,15
+Yorkshire and the Humber,62,1,10,0,1,2,13
+South West (England),38,0,14,0,8,2,11
+South East (England),39,0,15,0,7,7,24
+South West (England),55,1,14,0,9,NA,13
+East Midlands (England),80,0,18,0,3,5,21
+West Midlands (England),48,1,11,0,8,3,22
+South East (England),46,1,17,0,2,0,18
+London,55,1,11,0,NA,5,0
+West Midlands (England),26,1,12,0,1,3,6
+South West (England),74,1,12,0,3,7,9
+Scotland,46,0,13,0,8,6,26
+Scotland,28,0,10,0,1,4,19
+North West (England),23,1,13,0,3,5,27
+South West (England),57,0,17,0,10,5,27
+North West (England),63,1,13,0,7,5,19
+East Midlands (England),21,0,13,1,NA,6,18
+South West (England),65,1,15,0,9,5,23
+South East (England),59,1,16,0,6,5,25
+Scotland,47,1,22,0,9,4,20
+East Midlands (England),31,0,16,1,8,7,17
+South West (England),67,1,14,0,4,3,23
+Scotland,31,0,12,0,4,6,22
+South West (England),72,0,14,0,5,3,25
+North East (England),22,1,13,0,1,5,16
+North West (England),NA,0,17,0,NA,5,23
+North West (England),84,0,11,0,2,6,7
+South West (England),72,1,11,0,2,5,9
+North East (England),89,0,7,0,1,7,13
+Yorkshire and the Humber,66,1,11,0,2,3,9
+East of England,28,0,12,0,5,8,1
+North West (England),30,1,18,0,8,NA,24
+South East (England),52,1,17,0,NA,4,26
+East Midlands (England),65,1,11,0,NA,7,15
+South East (England),62,1,22,0,10,6,26
+South East (England),61,1,15,0,NA,6,17
+Yorkshire and the Humber,37,1,15,0,8,5,13
+Yorkshire and the Humber,57,1,12,0,6,2,7
+South East (England),21,0,15,0,3,6,19
+South East (England),90,1,14,0,NA,5,17
+South East (England),51,1,15,0,5,4,25
+East of England,16,0,12,0,NA,NA,22
+Wales,72,0,11,0,1,2,23
+South East (England),76,1,19,0,10,8,17
+North East (England),64,1,14,0,NA,5,4
+East Midlands (England),31,1,15,0,2,2,22
+Scotland,26,1,16,0,5,NA,20
+Northern Ireland,57,0,10,0,NA,NA,6
+Northern Ireland,39,0,12,0,7,7,12
+Scotland,31,1,13,0,6,NA,21
+South East (England),90,0,16,0,8,7,12
+Wales,51,0,12,0,4,2,14
+Yorkshire and the Humber,48,0,11,0,7,5,17
+West Midlands (England),NA,1,10,0,3,0,20
+East of England,38,1,16,0,10,3,25
+Scotland,48,0,11,0,10,5,22
+South East (England),60,0,13,0,NA,7,8
+London,86,1,9,0,NA,8,17
+Wales,47,1,12,0,5,5,14
+South West (England),71,0,11,0,1,10,12
+South East (England),47,1,23,0,10,6,24
+East Midlands (England),47,1,16,0,5,4,15
+Yorkshire and the Humber,80,0,10,0,1,5,6
+East of England,24,0,17,0,5,4,14
+South West (England),32,0,15,0,NA,6,6
+East of England,31,1,18,0,9,2,19
+South East (England),44,1,13,0,4,8,7
+Wales,60,1,12,0,5,1,4
+Wales,66,0,16,0,5,5,3
+South West (England),54,0,11,0,2,6,18
+North West (England),21,1,16,0,7,6,15
+West Midlands (England),85,0,9,0,8,5,0
+South East (England),62,1,12,0,4,5,14
+South East (England),20,0,14,0,4,4,20
+Scotland,64,0,10,0,1,5,14
+West Midlands (England),70,0,15,0,8,7,22
+East of England,57,1,16,0,10,5,18
+North East (England),66,1,14,0,3,4,7
+South West (England),59,1,14,0,1,5,11
+South West (England),54,1,12,0,2,NA,20
+South East (England),40,0,18,0,6,5,21
+London,68,0,19,0,3,7,17
+London,52,0,15,0,NA,6,26
+South West (England),71,0,16,0,7,5,5
+East Midlands (England),83,0,14,0,3,5,23
+West Midlands (England),69,1,10,0,NA,9,2
+East of England,22,0,17,0,3,4,17
+West Midlands (England),44,1,13,0,5,5,19
+North West (England),63,0,14,0,10,5,27
+South West (England),45,1,18,0,2,4,28
+North West (England),51,0,13,0,7,5,18
+North West (England),67,0,10,0,4,3,22
+Scotland,26,0,17,0,9,6,21
+North West (England),42,0,16,0,7,5,7
+Scotland,24,1,15,0,2,3,19
+Scotland,26,0,11,1,1,5,14
+South West (England),70,1,10,0,2,5,0
+South East (England),82,1,13,0,2,5,14
+South East (England),35,1,16,0,7,5,17
+Yorkshire and the Humber,27,1,17,0,8,5,11
+Scotland,69,0,10,0,7,5,15
+North West (England),75,0,10,0,7,10,5
+East of England,77,1,10,0,NA,5,11
+North West (England),73,0,10,0,1,5,18
+London,88,1,9,0,NA,NA,0
+East of England,56,0,12,0,7,5,16
+East of England,28,1,14,0,9,5,25
+Scotland,66,0,19,0,4,4,30
+East of England,18,1,11,0,8,6,28
+London,NA,0,14,0,1,8,17
+North West (England),29,0,23,0,8,4,25
+East Midlands (England),63,0,10,0,7,5,21
+North West (England),56,0,11,0,6,5,14
+Scotland,63,1,10,0,5,7,NA
+North West (England),72,0,16,0,4,5,18
+South East (England),44,0,13,0,7,3,21
+Scotland,59,0,20,0,7,10,0
+London,83,0,9,0,3,3,9
+East of England,50,0,15,0,9,5,22
+London,79,0,9,0,NA,NA,12
+South East (England),28,0,17,0,8,5,24
+North East (England),53,1,25,0,3,4,27
+West Midlands (England),21,0,20,0,NA,5,21
+South West (England),53,1,12,0,5,5,10
+East of England,50,0,11,0,8,10,14
+North West (England),64,0,16,0,4,5,23
+East Midlands (England),53,0,12,0,8,5,15
+Yorkshire and the Humber,45,0,11,1,1,5,10
+Yorkshire and the Humber,80,0,10,0,2,6,17
+East of England,30,1,15,0,8,4,13
+North East (England),45,0,15,0,10,5,15
+South West (England),67,1,10,0,4,6,15
+Scotland,63,1,10,0,1,5,14
+Yorkshire and the Humber,27,0,22,0,7,5,19
+South West (England),24,1,17,0,9,6,24
+South East (England),48,1,20,0,10,7,19
+East of England,44,1,11,0,7,5,27
+North West (England),65,0,11,0,1,5,14
+North West (England),47,1,18,0,5,4,15
+North East (England),78,0,15,0,1,10,17
+North West (England),43,0,13,0,1,6,18
+South West (England),90,0,11,0,NA,5,16
+South East (England),53,1,11,0,10,5,7
+North West (England),76,1,12,0,3,5,8
+Yorkshire and the Humber,51,1,11,0,9,5,17
+North East (England),25,1,12,0,9,5,0
+Scotland,28,0,11,0,5,5,7
+South East (England),69,1,10,0,3,7,7
+South East (England),64,1,13,0,7,7,21
+London,17,1,12,0,NA,5,19
+South East (England),54,1,21,0,NA,2,26
+South West (England),72,1,10,0,1,8,21
+North West (England),33,1,15,0,10,5,17
+Yorkshire and the Humber,71,1,17,0,4,3,28
+London,41,1,24,0,1,5,13
+Wales,58,0,18,0,9,1,23
+East Midlands (England),60,1,11,0,6,5,11
+London,33,0,12,0,4,4,8
+South East (England),51,0,17,0,10,NA,NA
+North East (England),41,1,18,0,9,5,18
+North East (England),58,0,12,0,8,3,19
+South East (England),NA,0,11,0,NA,6,NA
+North West (England),29,1,11,0,2,5,21
+Scotland,58,0,6,0,1,5,21
+South West (England),65,1,11,0,6,5,19
+East of England,48,0,10,0,8,7,5
+Scotland,71,1,12,0,NA,5,19
+North West (England),59,0,11,0,NA,5,10
+South East (England),27,0,15,0,4,5,9
+East Midlands (England),31,1,11,0,1,8,26
+London,32,1,19,0,5,1,27
+Northern Ireland,25,1,12,0,3,2,26
+South East (England),29,0,16,0,8,6,26
+South West (England),76,0,11,0,7,7,9
+North West (England),70,1,16,0,8,7,15
+London,46,1,15,0,10,0,27
+East of England,72,0,12,0,2,5,4
+South West (England),24,1,17,0,9,3,21
+East of England,55,0,12,0,3,NA,NA
+East of England,53,1,19,0,7,4,25
+Yorkshire and the Humber,47,1,20,0,10,3,30
+West Midlands (England),54,1,17,0,6,5,21
+South East (England),44,0,13,0,2,5,22
+South East (England),72,0,18,0,7,6,11
+South West (England),53,0,12,0,8,10,4
+South West (England),74,1,10,0,2,5,16
+South West (England),52,1,11,0,6,5,4
+London,59,0,17,0,NA,NA,18
+North West (England),31,1,15,0,3,NA,21
+East Midlands (England),54,0,9,0,3,NA,8
+Scotland,60,0,11,0,9,6,7
+East Midlands (England),64,0,14,0,10,8,8
+West Midlands (England),19,1,13,0,5,6,14
+London,71,0,16,0,4,3,24
+West Midlands (England),41,0,11,0,6,NA,18
+South West (England),69,0,12,0,8,7,7
+Scotland,37,1,10,0,4,4,9
+North West (England),68,1,15,0,1,0,29
+Yorkshire and the Humber,49,1,13,0,7,NA,30
+Yorkshire and the Humber,25,1,14,1,NA,5,16
+Wales,44,0,16,0,5,3,24
+East of England,54,0,13,1,2,0,8
+East of England,61,0,13,0,2,5,17
+London,32,0,17,1,8,2,29
+South East (England),69,0,13,0,6,4,24
+East of England,59,1,16,0,8,4,22
+London,78,1,18,0,6,7,18
+South East (England),59,1,13,0,3,5,17
+Yorkshire and the Humber,30,1,10,1,1,5,18
+Yorkshire and the Humber,72,1,10,0,2,8,22
+East Midlands (England),28,1,14,0,5,5,15
+South West (England),47,0,11,0,2,7,8
+London,52,0,NA,0,10,6,16
+South West (England),56,1,23,0,8,4,14
+Yorkshire and the Humber,17,1,11,0,1,10,25
+London,86,1,9,0,1,4,12
+South East (England),38,1,20,0,10,5,28
+South East (England),27,1,12,0,7,NA,18
+South West (England),57,0,12,0,5,8,16
+South East (England),32,0,16,0,7,3,26
+East Midlands (England),41,1,17,0,3,4,6
+South West (England),28,0,15,0,10,3,22
+South West (England),81,1,10,0,1,5,27
+West Midlands (England),63,0,10,0,1,4,3
+South East (England),86,0,NA,0,NA,7,19
+South East (England),42,1,13,0,1,5,15
+Wales,69,0,10,0,NA,5,12
+West Midlands (England),74,0,15,0,6,3,27
+North West (England),34,0,11,0,4,2,9
+South East (England),46,1,16,0,10,7,15
+North West (England),58,1,11,0,3,10,8
+South East (England),67,1,11,0,3,4,7
+East Midlands (England),68,1,12,0,2,7,13
+Scotland,90,1,8,0,1,NA,0
+Northern Ireland,56,1,12,0,1,NA,12
+East of England,82,1,11,0,1,6,NA
+South East (England),70,0,10,0,3,5,20
+South East (England),49,1,16,0,10,8,12
+Yorkshire and the Humber,33,0,14,0,8,5,17
+Northern Ireland,33,0,13,0,3,6,24
+South West (England),85,1,11,0,4,10,21
+Yorkshire and the Humber,79,0,20,0,NA,4,18
+East of England,58,1,14,0,9,8,NA
+South East (England),45,1,NA,0,10,NA,8
+North West (England),75,0,19,0,5,10,7
+Wales,74,1,23,0,NA,5,13
+West Midlands (England),51,1,21,0,7,3,28
+East of England,57,1,14,0,1,NA,9
+West Midlands (England),27,1,18,0,7,4,23
+Scotland,27,0,15,0,4,8,20
+Scotland,44,0,14,0,2,5,14
+South West (England),25,0,15,0,8,5,16
+East of England,71,1,10,0,2,5,21
+South East (England),45,1,18,0,10,4,24
+North East (England),49,0,12,0,8,6,17
+North West (England),29,1,11,0,6,NA,14
+East Midlands (England),64,1,17,0,3,10,17
+Scotland,15,0,10,0,NA,NA,21
+Scotland,35,1,12,0,5,3,25
+South West (England),39,1,12,0,1,NA,28
+South East (England),46,1,18,0,8,5,22
+South East (England),72,0,17,0,NA,5,17
+South East (England),52,0,18,0,9,5,18
+Scotland,84,1,9,0,2,5,17
+South West (England),74,1,16,0,1,6,16
+Yorkshire and the Humber,47,1,11,0,10,7,15
+South East (England),45,1,11,0,NA,5,9
+South East (England),68,1,26,0,8,4,20
+South West (England),50,1,16,0,10,5,24
+South West (England),42,0,11,0,8,5,0
+West Midlands (England),49,1,11,0,NA,NA,25
+Scotland,46,1,15,0,5,3,16
+London,40,0,32,0,10,4,26
+East Midlands (England),54,0,7,0,10,7,17
+South West (England),38,1,21,0,10,4,20
+North West (England),64,0,14,0,8,7,15
+North West (England),83,1,10,0,2,5,18
+East Midlands (England),52,1,11,0,1,5,8
+East of England,56,0,9,0,1,5,18
+North West (England),40,1,17,0,6,2,20
+Wales,28,1,20,1,2,4,14
+South West (England),84,0,10,0,1,5,10
+London,50,1,11,0,1,2,28
+South West (England),43,1,12,0,4,5,20
+East of England,62,1,10,0,NA,NA,8
+North East (England),27,0,13,0,8,2,21
+Yorkshire and the Humber,69,1,28,0,8,1,25
+London,40,1,15,0,5,5,21
+West Midlands (England),55,0,16,0,4,8,21
+Yorkshire and the Humber,70,0,10,0,2,3,20
+London,65,0,10,0,NA,4,13
+South West (England),45,1,19,0,9,7,14
+South East (England),87,0,12,0,7,8,16
+South East (England),82,1,10,0,2,6,21
+North East (England),50,0,15,0,5,2,26
+West Midlands (England),48,1,11,0,7,NA,20
+Yorkshire and the Humber,45,1,10,0,2,NA,15
+Wales,63,1,18,0,5,5,15
+West Midlands (England),90,0,10,0,NA,5,25
+East of England,24,0,22,0,NA,5,20
+North East (England),71,1,16,0,NA,9,20
